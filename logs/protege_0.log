@@ -252,3 +252,1164 @@
 2014.09.24 14:44:47.892 EDT INFO: 5 ms
  -- TriplePostProcessor.processPossiblyTypedResources()
 2014.09.24 14:44:47.893 EDT INFO: Updating underlying frames model in 1 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 15:04:39.627 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:04:42.027 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:04:42.509 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:04:43.149 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:04:43.964 EDT INFO:     Completed triple loading after 638 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:04:43.972 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:04:43.975 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:04:43.978 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:04:43.980 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:04:43.982 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:04:43.984 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:04:43.986 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:04:43.988 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:04:43.997 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:04:43.999 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:04:44.003 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:04:44.006 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:04:44.007 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:04:44.009 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:04:44.009 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:04:44.010 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:04:44.010 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:04:44.012 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:04:44.012 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:04:44.018 EDT INFO: 5 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:04:44.019 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 15:08:27.109 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:08:28.725 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:08:28.897 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:08:29.205 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:08:30.032 EDT INFO:     Completed triple loading after 675 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:08:30.036 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:08:30.037 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:08:30.038 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:08:30.039 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:08:30.040 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:08:30.041 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:08:30.042 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:08:30.043 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:08:30.048 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:08:30.049 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:08:30.054 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:08:30.057 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:08:30.058 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:08:30.060 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:08:30.060 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:08:30.061 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:08:30.061 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:08:30.063 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:08:30.064 EDT INFO: Postprocess: Possibly typed entities (3 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:08:30.064 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:08:30.065 EDT INFO: Updating underlying frames model in 1 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 15:08:56.662 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:08:58.015 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:08:58.205 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:08:58.486 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:08:59.236 EDT INFO:     Completed triple loading after 550 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:08:59.244 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:08:59.247 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:08:59.250 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:08:59.253 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:08:59.256 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:08:59.257 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:08:59.258 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:08:59.259 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:08:59.266 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:08:59.266 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:08:59.271 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:08:59.273 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:08:59.274 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:08:59.276 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:08:59.277 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:08:59.277 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:08:59.278 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:08:59.280 EDT INFO: 2 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:08:59.280 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:08:59.287 EDT INFO: 6 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:08:59.288 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 15:13:32.053 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:13:34.144 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:13:34.363 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:13:34.756 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:13:36.058 EDT INFO:     Completed triple loading after 1010 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:13:36.063 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:13:36.064 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:13:36.065 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:13:36.066 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:13:36.067 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:13:36.068 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:13:36.069 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:13:36.070 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:13:36.076 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:13:36.077 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:13:36.081 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:13:36.084 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:13:36.087 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:13:36.093 EDT INFO: 4 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:13:36.094 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:13:36.094 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:13:36.095 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:13:36.096 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:13:36.097 EDT INFO: Postprocess: Possibly typed entities (3 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:13:36.097 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:13:36.098 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 15:15:01.420 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:15:02.972 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:15:03.170 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:15:03.477 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:15:04.545 EDT INFO:     Completed triple loading after 905 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:15:04.558 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:15:04.561 EDT INFO: 1 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:15:04.563 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:15:04.567 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:15:04.569 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:15:04.571 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:15:04.572 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:15:04.573 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:15:04.580 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:15:04.581 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:15:04.587 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:15:04.592 EDT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:15:04.594 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:15:04.597 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:15:04.599 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:15:04.600 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:15:04.601 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:15:04.603 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:15:04.604 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:15:04.612 EDT INFO: 7 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:15:04.613 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 15:16:50.307 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:16:51.735 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:16:51.901 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:16:52.145 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:16:52.916 EDT INFO:     Completed triple loading after 583 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:16:52.921 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:16:52.924 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:16:52.926 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:16:52.928 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:16:52.930 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:16:52.932 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:16:52.934 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:16:52.936 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:16:52.941 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:16:52.943 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:16:52.949 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:16:52.953 EDT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:16:52.953 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:16:52.955 EDT INFO: 1 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:16:52.956 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:16:52.956 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:16:52.957 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:16:52.958 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:16:52.959 EDT INFO: Postprocess: Possibly typed entities (3 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:16:52.959 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:16:52.960 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 15:17:41.066 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:17:42.569 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:17:42.756 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:17:42.994 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:17:43.813 EDT INFO:     Completed triple loading after 643 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:17:43.818 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:17:43.821 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:17:43.823 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:17:43.824 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:17:43.826 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:17:43.828 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:17:43.829 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:17:43.829 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:17:43.837 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:17:43.838 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:17:43.844 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:17:43.849 EDT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:17:43.850 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:17:43.853 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:17:43.854 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:17:43.854 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:17:43.855 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:17:43.856 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:17:43.857 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:17:43.863 EDT INFO: 6 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:17:43.864 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 15:18:11.657 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:18:13.267 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:18:51.181 EDT INFO: *** SYSTEM START ***
+2014.09.24 15:18:52.714 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:19:10.483 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 15:19:10.980 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:19:12.970 EDT INFO:     Completed triple loading after 1722 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 15:19:12.982 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:19:12.984 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 15:19:12.986 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:19:12.989 EDT INFO: 1 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 15:19:12.990 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:19:12.992 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 15:19:12.993 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:19:12.994 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 15:19:13.041 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:19:13.044 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 15:19:13.059 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:19:13.067 EDT INFO: 7 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 15:19:13.068 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:19:13.076 EDT INFO: 7 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 15:19:13.077 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:19:13.079 EDT INFO: 1 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 15:19:13.080 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:19:13.099 EDT INFO: 18 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 15:19:13.101 EDT INFO: Postprocess: Possibly typed entities (3 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:19:13.103 EDT INFO: 1 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 15:19:13.105 EDT INFO: Updating underlying frames model in 1 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 16:54:54.933 EDT INFO: *** SYSTEM START ***
+2014.09.24 16:54:56.954 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 16:54:57.204 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 16:54:58.737 EDT INFO: Loading triples for: http://protege.cim3.net/file/pub/ontologies/travel/travel.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 16:54:59.699 EDT INFO:     Completed triple loading after 762 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 16:54:59.704 EDT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 16:54:59.706 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 16:54:59.708 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 16:54:59.710 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 16:54:59.712 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 16:54:59.714 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 16:54:59.717 EDT INFO: Postprocess: Instances with multiple types (23 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 16:54:59.720 EDT INFO: 1 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 16:54:59.721 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 16:54:59.740 EDT INFO: 18 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 16:54:59.748 EDT INFO: Postprocess: Process orphan classes (34 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 16:54:59.752 EDT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 16:54:59.753 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 16:54:59.754 EDT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 16:54:59.755 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 16:54:59.756 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 16:54:59.757 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 16:54:59.759 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 16:54:59.760 EDT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 16:54:59.761 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 16:54:59.761 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 17:12:36.961 EDT INFO: *** SYSTEM START ***
+2014.09.24 17:12:40.100 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:12:40.578 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:12:42.313 EDT INFO: Loading triples for: http://protege.cim3.net/file/pub/ontologies/travel/travel.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:12:43.361 EDT INFO:     Completed triple loading after 818 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:12:43.367 EDT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:12:43.368 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:12:43.369 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:12:43.371 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:12:43.372 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:12:43.372 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:12:43.373 EDT INFO: Postprocess: Instances with multiple types (23 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:12:43.375 EDT INFO: 1 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:12:43.375 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:12:43.384 EDT INFO: 8 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:12:43.389 EDT INFO: Postprocess: Process orphan classes (34 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:12:43.396 EDT INFO: 5 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:12:43.396 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:12:43.397 EDT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:12:43.398 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:12:43.399 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:12:43.400 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:12:43.403 EDT INFO: 2 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:12:43.404 EDT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:12:43.404 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:12:43.405 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 17:14:16.163 EDT INFO: *** SYSTEM START ***
+2014.09.24 17:14:17.602 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:14:17.794 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:14:19.173 EDT INFO: Loading triples for: http://protege.cim3.net/file/pub/ontologies/travel/travel.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:14:20.108 EDT INFO:     Completed triple loading after 750 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:14:20.111 EDT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:14:20.112 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:14:20.112 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:14:20.113 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:14:20.113 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:14:20.114 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:14:20.114 EDT INFO: Postprocess: Instances with multiple types (23 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:14:20.116 EDT INFO: 1 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:14:20.116 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:14:20.130 EDT INFO: 13 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:14:20.135 EDT INFO: Postprocess: Process orphan classes (34 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:14:20.140 EDT INFO: 4 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:14:20.142 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:14:20.144 EDT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:14:20.146 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:14:20.148 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:14:20.150 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:14:20.152 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:14:20.153 EDT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:14:20.153 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:14:20.154 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 17:15:00.457 EDT INFO: *** SYSTEM START ***
+2014.09.24 17:15:01.959 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:15:02.177 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:15:03.526 EDT INFO: Loading triples for: http://protege.cim3.net/file/pub/ontologies/travel/travel.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:15:04.403 EDT INFO:     Completed triple loading after 676 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:15:04.408 EDT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:15:04.409 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:15:04.410 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:15:04.411 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:15:04.412 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:15:04.413 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:15:04.414 EDT INFO: Postprocess: Instances with multiple types (23 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:15:04.415 EDT INFO: 1 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:15:04.416 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:15:04.426 EDT INFO: 10 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:15:04.431 EDT INFO: Postprocess: Process orphan classes (34 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:15:04.433 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:15:04.434 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:15:04.434 EDT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:15:04.435 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:15:04.435 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:15:04.436 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:15:04.438 EDT INFO: 2 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:15:04.439 EDT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:15:04.440 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:15:04.440 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 17:16:59.986 EDT INFO: *** SYSTEM START ***
+2014.09.24 17:17:01.621 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:17:01.822 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:17:03.243 EDT INFO: Loading triples for: http://protege.cim3.net/file/pub/ontologies/travel/travel.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:17:04.185 EDT INFO:     Completed triple loading after 754 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:17:04.188 EDT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:17:04.189 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:17:04.189 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:17:04.190 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:17:04.190 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:17:04.191 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:17:04.192 EDT INFO: Postprocess: Instances with multiple types (23 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:17:04.193 EDT INFO: 1 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:17:04.194 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:17:04.206 EDT INFO: 12 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:17:04.213 EDT INFO: Postprocess: Process orphan classes (34 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:17:04.216 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:17:04.218 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:17:04.218 EDT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:17:04.219 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:17:04.219 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:17:04.219 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:17:04.221 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:17:04.222 EDT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:17:04.222 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:17:04.223 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 17:17:34.319 EDT INFO: *** SYSTEM START ***
+2014.09.24 17:17:35.698 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:17:35.888 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:17:37.270 EDT INFO: Loading triples for: http://protege.cim3.net/file/pub/ontologies/travel/travel.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:17:38.278 EDT INFO:     Completed triple loading after 805 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:17:38.281 EDT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:17:38.282 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:17:38.282 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:17:38.283 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:17:38.283 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:17:38.284 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:17:38.284 EDT INFO: Postprocess: Instances with multiple types (23 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:17:38.286 EDT INFO: 1 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:17:38.286 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:17:38.295 EDT INFO: 8 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:17:38.299 EDT INFO: Postprocess: Process orphan classes (34 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:17:38.302 EDT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:17:38.302 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:17:38.303 EDT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:17:38.304 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:17:38.304 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:17:38.305 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:17:38.306 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:17:38.307 EDT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:17:38.307 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:17:38.308 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 17:17:58.737 EDT INFO: *** SYSTEM START ***
+2014.09.24 17:18:00.282 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:18:00.475 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:18:01.788 EDT INFO: Loading triples for: http://protege.cim3.net/file/pub/ontologies/travel/travel.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:18:02.652 EDT INFO:     Completed triple loading after 718 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:18:02.659 EDT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:18:02.661 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:18:02.662 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:18:02.663 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:18:02.664 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:18:02.665 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:18:02.666 EDT INFO: Postprocess: Instances with multiple types (23 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:18:02.668 EDT INFO: 1 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:18:02.669 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:18:02.680 EDT INFO: 10 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:18:02.684 EDT INFO: Postprocess: Process orphan classes (34 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:18:02.687 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:18:02.688 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:18:02.688 EDT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:18:02.689 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:18:02.689 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:18:02.689 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:18:02.691 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:18:02.694 EDT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:18:02.696 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:18:02.698 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.24 17:18:54.230 EDT INFO: *** SYSTEM START ***
+2014.09.24 17:18:55.621 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:18:55.797 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.24 17:18:57.190 EDT INFO: Loading triples for: http://protege.cim3.net/file/pub/ontologies/travel/travel.owl -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:18:58.240 EDT INFO:     Completed triple loading after 855 ms -- ProtegeOWLParser.loadTriples()
+2014.09.24 17:18:58.247 EDT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:18:58.248 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.24 17:18:58.248 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:18:58.251 EDT INFO: 1 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.24 17:18:58.251 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:18:58.252 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.24 17:18:58.253 EDT INFO: Postprocess: Instances with multiple types (23 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:18:58.255 EDT INFO: 1 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.24 17:18:58.256 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:18:58.266 EDT INFO: 10 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.24 17:18:58.273 EDT INFO: Postprocess: Process orphan classes (34 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:18:58.276 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.24 17:18:58.279 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:18:58.281 EDT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.24 17:18:58.283 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:18:58.284 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.24 17:18:58.284 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:18:58.286 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.24 17:18:58.287 EDT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:18:58.288 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.24 17:18:58.289 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 10:53:32.380 EDT INFO: *** SYSTEM START ***
+2014.09.26 10:53:34.091 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 10:59:02.139 EDT INFO: *** SYSTEM START ***
+2014.09.26 10:59:03.998 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 11:00:51.164 EDT INFO: *** SYSTEM START ***
+2014.09.26 11:00:52.419 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 11:00:54.206 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 11:00:54.665 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.26 11:00:55.883 EDT INFO:     Completed triple loading after 1038 ms -- ProtegeOWLParser.loadTriples()
+2014.09.26 11:00:55.888 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 11:00:55.891 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 11:00:55.892 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.26 11:00:55.893 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.26 11:00:55.894 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 11:00:55.894 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 11:00:55.896 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 11:00:55.897 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 11:00:55.902 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 11:00:55.905 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 11:00:55.913 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.26 11:00:55.918 EDT INFO: 4 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.26 11:00:55.921 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 11:00:55.923 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 11:00:55.924 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 11:00:55.925 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 11:00:55.926 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 11:00:55.927 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 11:00:55.928 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 11:00:55.934 EDT INFO: 5 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 11:00:55.935 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 11:01:29.563 EDT INFO: *** SYSTEM START ***
+2014.09.26 11:01:31.142 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 11:01:32.764 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 11:01:32.823 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.26 11:01:33.669 EDT INFO:     Completed triple loading after 699 ms -- ProtegeOWLParser.loadTriples()
+2014.09.26 11:01:33.676 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 11:01:33.678 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 11:01:33.679 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.26 11:01:33.682 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.26 11:01:33.685 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 11:01:33.688 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 11:01:33.691 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 11:01:33.694 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 11:01:33.703 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 11:01:33.705 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 11:01:33.716 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.26 11:01:33.723 EDT INFO: 4 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.26 11:01:33.725 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 11:01:33.731 EDT INFO: 4 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 11:01:33.733 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 11:01:33.735 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 11:01:33.737 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 11:01:33.740 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 11:01:33.742 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 11:01:33.753 EDT INFO: 9 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 11:01:33.755 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 11:08:35.111 EDT INFO: *** SYSTEM START ***
+2014.09.26 11:08:36.927 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 11:08:38.565 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 11:08:38.635 EDT INFO: Loading triples for: http://auriga:8080/Ontology/University/university.owl -- ProtegeOWLParser.loadTriples()
+2014.09.26 11:08:39.547 EDT INFO:     Completed triple loading after 765 ms -- ProtegeOWLParser.loadTriples()
+2014.09.26 11:08:39.554 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 11:08:39.557 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 11:08:39.559 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.26 11:08:39.561 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.26 11:08:39.562 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 11:08:39.563 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 11:08:39.563 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 11:08:39.564 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 11:08:39.569 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 11:08:39.572 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 11:08:39.583 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.26 11:08:39.592 EDT INFO: 6 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.26 11:08:39.595 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 11:08:39.601 EDT INFO: 4 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 11:08:39.604 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 11:08:39.606 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 11:08:39.608 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 11:08:39.611 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 11:08:39.613 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 11:08:39.623 EDT INFO: 8 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 11:08:39.625 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 13:07:25.936 EDT INFO: *** SYSTEM START ***
+2014.09.26 13:07:27.502 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:07:28.937 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:07:30.991 EDT SEVERE: Error at loading file http://auriga:8080/Ontology/University/university.owl -- Could not get input stream for http://auriga:8080/Ontology/University/university.owl
+	at edu.stanford.smi.protegex.owl.jena.parser.ProtegeOWLParser.getInputStream(Unknown Source)
+	at edu.stanford.smi.protegex.owl.repository.util.XMLBaseExtractor.getXMLBase(Unknown Source)
+	at edu.stanford.smi.protegex.owl.jena.parser.ProtegeOWLParser.run(Unknown Source)
+	at edu.stanford.smi.protegex.owl.jena.JenaKnowledgeBaseFactory.loadKnowledgeBase(Unknown Source)
+	at edu.stanford.smi.protege.model.Project.loadDomainKB(Unknown Source)
+	at edu.stanford.smi.protege.model.Project.createDomainKnowledgeBase(Unknown Source)
+	at edu.stanford.smi.protegex.owl.jena.creator.OwlProjectFromUriCreator.create(Unknown Source)
+	at edu.stanford.smi.protegex.owl.ProtegeOWL.createJenaOWLModelFromURI(Unknown Source)
+	at com.demo.application.OWLAPIDemoApplication.loadUniversityOwl(OWLAPIDemoApplication.java:156)
+	at com.demo.application.OWLAPIDemoApplication.main(OWLAPIDemoApplication.java:59)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at edu.stanford.smi.protegex.owl.jena.parser.ProtegeOWLParser.getInputStream(Unknown Source)
+	... 9 more
+
+2014.09.26 13:07:31.041 EDT WARNING: Exception caught  -- Could not get input stream for http://auriga:8080/Ontology/University/university.owl
+	at edu.stanford.smi.protegex.owl.jena.parser.ProtegeOWLParser.getInputStream(Unknown Source)
+	at edu.stanford.smi.protegex.owl.repository.util.XMLBaseExtractor.getXMLBase(Unknown Source)
+	at edu.stanford.smi.protegex.owl.jena.parser.ProtegeOWLParser.run(Unknown Source)
+	at edu.stanford.smi.protegex.owl.jena.JenaKnowledgeBaseFactory.loadKnowledgeBase(Unknown Source)
+	at edu.stanford.smi.protege.model.Project.loadDomainKB(Unknown Source)
+	at edu.stanford.smi.protege.model.Project.createDomainKnowledgeBase(Unknown Source)
+	at edu.stanford.smi.protegex.owl.jena.creator.OwlProjectFromUriCreator.create(Unknown Source)
+	at edu.stanford.smi.protegex.owl.ProtegeOWL.createJenaOWLModelFromURI(Unknown Source)
+	at com.demo.application.OWLAPIDemoApplication.loadUniversityOwl(OWLAPIDemoApplication.java:156)
+	at com.demo.application.OWLAPIDemoApplication.main(OWLAPIDemoApplication.java:59)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at edu.stanford.smi.protegex.owl.jena.parser.ProtegeOWLParser.getInputStream(Unknown Source)
+	... 9 more
+
+2014.09.26 13:12:22.888 EDT INFO: *** SYSTEM START ***
+2014.09.26 13:12:24.188 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:12:24.701 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:12:24.731 EDT INFO: Loading triples for: null -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:12:25.538 EDT INFO:     Completed triple loading after 545 ms -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:12:25.540 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:12:25.541 EDT INFO: 1 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:12:25.542 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:12:25.542 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:12:25.543 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:12:25.545 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:12:25.548 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:12:25.548 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:12:25.551 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:12:25.552 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:12:25.557 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:12:25.560 EDT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:12:25.560 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:12:25.563 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:12:25.563 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:12:25.563 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:12:25.564 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:12:25.566 EDT INFO: 2 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:12:25.566 EDT INFO: Postprocess: Possibly typed entities (3 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:12:25.567 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:12:25.568 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 13:14:12.336 EDT INFO: *** SYSTEM START ***
+2014.09.26 13:14:13.711 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:14:14.277 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:14:14.305 EDT INFO: Loading triples for: null -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:14:15.143 EDT INFO:     Completed triple loading after 557 ms -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:14:15.145 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:14:15.146 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:14:15.146 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:14:15.147 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:14:15.148 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:14:15.148 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:14:15.149 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:14:15.150 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:14:15.153 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:14:15.154 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:14:15.159 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:14:15.162 EDT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:14:15.163 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:14:15.166 EDT INFO: 3 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:14:15.167 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:14:15.167 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:14:15.168 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:14:15.169 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:14:15.170 EDT INFO: Postprocess: Possibly typed entities (3 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:14:15.171 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:14:15.172 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 13:15:09.241 EDT INFO: *** SYSTEM START ***
+2014.09.26 13:15:10.576 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:15:11.095 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:15:11.122 EDT INFO: Loading triples for: null -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:15:11.935 EDT INFO:     Completed triple loading after 551 ms -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:15:11.937 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:15:11.938 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:15:11.939 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:15:11.939 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:15:11.940 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:15:11.941 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:15:11.941 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:15:11.942 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:15:11.945 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:15:11.946 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:15:11.951 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:15:11.953 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:15:11.954 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:15:11.957 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:15:11.957 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:15:11.958 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:15:11.958 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:15:11.960 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:15:11.961 EDT INFO: Postprocess: Possibly typed entities (3 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:15:11.961 EDT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:15:11.962 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 13:15:27.503 EDT INFO: *** SYSTEM START ***
+2014.09.26 13:15:28.666 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:15:29.116 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:15:29.139 EDT INFO: Loading triples for: null -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:15:29.809 EDT INFO:     Completed triple loading after 453 ms -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:15:29.811 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:15:29.811 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:15:29.812 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:15:29.813 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:15:29.813 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:15:29.814 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:15:29.814 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:15:29.815 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:15:29.819 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:15:29.820 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:15:29.824 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:15:29.826 EDT INFO: 2 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:15:29.827 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:15:29.830 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:15:29.830 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:15:29.831 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:15:29.832 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:15:29.833 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:15:29.834 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:15:29.839 EDT INFO: 4 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:15:29.840 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 13:28:20.389 EDT INFO: *** SYSTEM START ***
+2014.09.26 13:28:21.685 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:28:22.194 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 13:28:22.221 EDT INFO: Loading triples for: null -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:28:23.013 EDT INFO:     Completed triple loading after 532 ms -- ProtegeOWLParser.loadTriples()
+2014.09.26 13:28:23.015 EDT INFO: Postprocess: Process entities with incorrect Java type (1 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:28:23.016 EDT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2014.09.26 13:28:23.017 EDT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:28:23.017 EDT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2014.09.26 13:28:23.018 EDT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:28:23.019 EDT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2014.09.26 13:28:23.019 EDT INFO: Postprocess: Instances with multiple types (0 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:28:23.020 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2014.09.26 13:28:23.024 EDT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:28:23.025 EDT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2014.09.26 13:28:23.030 EDT INFO: Postprocess: Process orphan classes (8 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:28:23.033 EDT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2014.09.26 13:28:23.033 EDT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:28:23.036 EDT INFO: 2 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2014.09.26 13:28:23.037 EDT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:28:23.037 EDT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2014.09.26 13:28:23.038 EDT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:28:23.040 EDT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2014.09.26 13:28:23.040 EDT INFO: Postprocess: Possibly typed entities (4 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:28:23.046 EDT INFO: 5 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2014.09.26 13:28:23.047 EDT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2014.09.26 13:33:01.550 EDT INFO: *** SYSTEM START ***
+2014.09.26 13:33:02.848 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:00:10.500 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:00:11.869 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:09:26.794 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:09:28.073 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:09:51.500 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:09:52.771 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:16:33.572 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:16:35.012 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:27:10.093 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:27:11.438 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:27:35.548 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:27:36.818 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:30:12.207 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:30:13.472 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:31:18.906 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:31:20.182 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.26 14:31:36.510 EDT INFO: *** SYSTEM START ***
+2014.09.26 14:31:37.889 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 12:21:28.077 EDT INFO: *** SYSTEM START ***
+2014.09.29 12:21:29.525 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:04:20.167 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:04:21.662 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:06:53.670 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:06:54.976 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:08:08.452 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:08:09.806 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:08:44.145 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:08:45.548 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:09:14.661 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:09:16.055 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:10:11.976 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:10:13.350 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:13:28.982 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:13:30.454 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:14:55.174 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:14:56.669 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:15:04.122 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:15:05.494 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:16:20.860 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:16:22.241 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:16:39.662 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:16:41.053 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:17:02.176 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:17:03.598 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:18:14.237 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:18:15.618 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:21:35.305 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:21:36.699 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:24:02.068 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:24:03.552 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:27:51.231 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:27:52.703 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:28:11.197 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:28:12.624 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:29:53.797 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:29:55.176 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:30:58.836 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:31:00.165 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:31:32.153 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:31:33.584 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:35:14.122 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:35:15.602 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:35:35.834 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:35:37.544 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:39:54.963 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:39:56.454 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:40:45.775 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:40:47.193 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:49:05.260 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:49:06.686 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 13:49:24.732 EDT INFO: *** SYSTEM START ***
+2014.09.29 13:49:26.122 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:04:05.000 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:04:06.400 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:05:42.625 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:05:44.013 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:17:07.748 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:17:09.122 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:17:36.604 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:17:37.962 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:25:09.808 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:25:11.234 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:26:44.816 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:26:46.200 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:27:07.346 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:27:08.765 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:28:13.594 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:28:14.879 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:28:37.877 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:28:39.142 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:32:06.637 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:32:07.874 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:32:31.308 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:32:32.698 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 15:34:34.023 EDT INFO: *** SYSTEM START ***
+2014.09.29 15:34:35.428 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 17:04:15.381 EDT INFO: *** SYSTEM START ***
+2014.09.29 17:04:16.676 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 17:09:31.697 EDT INFO: *** SYSTEM START ***
+2014.09.29 17:09:33.045 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 17:10:50.181 EDT INFO: *** SYSTEM START ***
+2014.09.29 17:10:51.473 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 17:12:18.776 EDT INFO: *** SYSTEM START ***
+2014.09.29 17:12:20.016 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:02:43.108 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:02:44.391 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:03:02.773 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:03:04.060 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:03:30.300 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:03:31.660 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:04:09.058 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:04:10.407 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:04:42.231 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:04:43.593 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:05:18.553 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:05:19.875 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:05:59.500 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:06:00.812 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:06:32.348 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:06:33.670 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:07:30.477 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:07:31.853 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.09.29 18:08:03.885 EDT INFO: *** SYSTEM START ***
+2014.09.29 18:08:05.187 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 11:30:38.966 EDT INFO: *** SYSTEM START ***
+2014.10.10 11:30:40.540 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 11:34:00.734 EDT INFO: *** SYSTEM START ***
+2014.10.10 11:34:02.069 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 11:36:29.819 EDT INFO: *** SYSTEM START ***
+2014.10.10 11:36:31.241 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 11:51:37.399 EDT INFO: *** SYSTEM START ***
+2014.10.10 11:51:38.640 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 11:51:54.319 EDT INFO: *** SYSTEM START ***
+2014.10.10 11:51:55.880 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 12:04:47.574 EDT INFO: *** SYSTEM START ***
+2014.10.10 12:04:48.911 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 12:05:07.117 EDT INFO: *** SYSTEM START ***
+2014.10.10 12:05:08.577 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 14:39:16.814 EDT INFO: *** SYSTEM START ***
+2014.10.10 14:39:18.276 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 14:39:35.250 EDT INFO: *** SYSTEM START ***
+2014.10.10 14:39:36.436 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 14:39:53.077 EDT INFO: *** SYSTEM START ***
+2014.10.10 14:39:54.222 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:00:49.477 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:00:50.868 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:01:18.499 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:01:20.743 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:01:41.191 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:01:42.702 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:02:35.221 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:02:36.534 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:45:44.807 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:45:46.228 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:46:43.631 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:46:44.983 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:47:18.364 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:47:19.746 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:50:13.115 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:50:14.619 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:51:11.760 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:51:13.245 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:51:38.663 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:51:40.057 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:52:15.160 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:52:16.516 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:52:31.227 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:52:32.737 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:52:43.385 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:52:44.647 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:53:50.094 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:53:51.430 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:54:14.398 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:54:15.968 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 15:55:27.598 EDT INFO: *** SYSTEM START ***
+2014.10.10 15:55:28.923 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:01:48.880 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:01:50.232 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:03:30.341 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:03:31.716 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:04:45.581 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:04:46.923 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:05:07.685 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:05:09.135 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:11:07.040 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:11:08.497 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:11:58.174 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:11:59.480 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:15:28.704 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:15:30.125 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:16:33.506 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:16:34.832 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:18:48.323 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:18:49.884 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:20:33.125 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:20:34.537 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:21:09.152 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:21:10.484 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:26:19.999 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:26:21.337 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:27:38.143 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:27:39.650 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:28:01.134 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:28:02.605 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:28:25.247 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:28:26.577 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 16:32:21.546 EDT INFO: *** SYSTEM START ***
+2014.10.10 16:32:22.894 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 17:03:48.787 EDT INFO: *** SYSTEM START ***
+2014.10.10 17:03:50.089 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 17:06:05.542 EDT INFO: *** SYSTEM START ***
+2014.10.10 17:06:06.864 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 17:06:57.295 EDT INFO: *** SYSTEM START ***
+2014.10.10 17:06:58.584 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 17:07:28.105 EDT INFO: *** SYSTEM START ***
+2014.10.10 17:07:29.282 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 17:08:33.286 EDT INFO: *** SYSTEM START ***
+2014.10.10 17:08:34.557 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.10 19:53:48.511 EDT INFO: *** SYSTEM START ***
+2014.10.10 19:53:49.978 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
