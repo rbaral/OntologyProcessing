@@ -93,7 +93,9 @@ public class OWLAPIDemoApplication {
 			//loadUniversityOwl(univOwl);
 			//loadUniversityJena(univOwl);
 			//testInference(null);
-			testReasoningWithRules();
+			//testReasoningWithRules();
+			testReasoningWithRulesForUniversity();
+			//testReasoningForBehaviorHealth();
 			//progOnt();
 		} catch (OntologyLoadException e) {
 			// TODO Auto-generated catch block
@@ -102,6 +104,108 @@ public class OWLAPIDemoApplication {
 
 	}
 	
+	public static void testReasoningForBehaviorHealth() {
+		String url = "http://auriga:8080/Ontology/";
+		OntModel model = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
+		// alternate copy of the ontology
+		OntDocumentManager dm = model.getDocumentManager();
+		dm.addAltEntry(url, "file:owlfiles//behaviorhealth.owl");
+		//dm.addAltEntry(url,"file:\\U:\\scis\\ASCL\\OntologyandSemantics\\university.owl");
+		model.read(url);
+		Reasoner reasoner = new  
+                GenericRuleReasoner(Rule.rulesFromURL("file:owlfiles//behav.rules"));
+		//reasoner.setOWLTranslation(true);
+		// Create inferred model using the reasoner and write it out.
+		InfModel inf = ModelFactory.createInfModel(reasoner, model); 
+		  
+        //print out the statements in the model 
+		StmtIterator iter = inf.listStatements();
+		while (iter.hasNext()) {
+			Statement stmt = iter.nextStatement();
+			Resource subject = stmt.getSubject();
+			Property predicate = stmt.getPredicate();
+			RDFNode object = stmt.getObject();
+
+			System.out.print(subject.toString());
+			System.out.print(" " + predicate.toString() + " ");
+			if (object instanceof Resource) {
+				System.out.print(object.toString());
+			} else {
+				// object is a literal
+				System.out.print(" \"" + object.toString() + "\"");
+			}
+			System.out.println(" .");
+		}
+		// inf.write(System.out);
+	}
+	
+	
+	public static void testReasoningWithRulesForUniversity() {
+		String file = "U:\\scis\\ASCL\\OntologyandSemantics\\university.owl";
+		String url = "http://auriga:8080/Ontology/";
+		String baseURL = "http://people.cis.fiu.edu/~rbaral/university.owl#";
+		OntModel model = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
+		// alternate copy of the ontology
+		OntDocumentManager dm = model.getDocumentManager();
+		dm.addAltEntry(url, "file:owlfiles//university.owl");
+		//dm.addAltEntry(url,"file:\\U:\\scis\\ASCL\\OntologyandSemantics\\university.owl");
+		model.read(url);
+		// Create an empty model.
+		// Model model = ModelFactory.createDefaultModel();
+
+		// Read the RDF/XML on standard in.
+		//model.read("file:dataset1.txt", "N3");
+
+		// Create a simple RDFS++ Reasoner.
+		/*StringBuilder sb = new StringBuilder();
+		sb.append("[rdfs2:   (?x ?p ?y), (?p rdfs:domain ?c) -> (?x rdf:type ?c)] ");
+		sb.append("[rdfs3:   (?x ?p ?y), (?p rdfs:range ?c) -> (?y rdf:type ?c)] ");
+
+		sb.append("[rdfs1:   (?a ?p ?b), (?p rdfs:subPropertyOf ?q) -> (?a ?q ?b)] ");
+		sb.append("[rdfs2:   (?x rdfs:subPropertyOf ?y), (?y rdfs:subPropertyOf ?z) -> (?x rdfs:subPropertyOf ?z)] ");
+
+		sb.append("[rdfs4:   (?x rdfs:subClassOf ?y), (?a rdf:type ?x) -> (?a rdf:type ?y)] ");
+		sb.append("[rdfs5:  (?x rdfs:subClassOf ?y), (?y rdfs:subClassOf ?z) -> (?x rdfs:subClassOf ?z)] ");
+
+		sb.append("[owlinv1:  (?x ?p ?y), (?p owl:inverseOf ?q) -> (?y ?q ?x)] ");
+		sb.append("[owlinv2: (?p owl:inverseOf ?q) -> (?q owl:inverseOf ?p)] ");
+
+		sb.append("[owltra1:  (?x ?p ?y), (?y ?p ?z), (?p rdf:type owl:TransitiveProperty) -> (?x ?p ?z)] ");
+
+		sb.append("[owlsam1:  (?x ?p ?y), (?x owl:sameAs ?z) -> (?z ?p ?y)] ");
+		sb.append("[owlsam2: (?x owl:sameAs ?y) -> (?y owl:sameAs ?x)] ");
+		
+		sb.append("[teach1:   (?x owl:studies ?y) (?z owl:teaches ?y) -> (?z owl:teacherof ?x)] ");
+		sb.append("[study1:   (?x owl:studies ?y) -> (?x owl:enrolledin ?y)] ");
+
+		GenericRuleReasoner reasoner = new GenericRuleReasoner(Rule.parseRules(sb
+				.toString()));*/
+		Reasoner reasoner = new  
+                GenericRuleReasoner(Rule.rulesFromURL("file:owlfiles//univ.rules"));
+		//reasoner.setOWLTranslation(true);
+		// Create inferred model using the reasoner and write it out.
+		InfModel inf = ModelFactory.createInfModel(reasoner, model); 
+		  
+        //print out the statements in the model 
+		StmtIterator iter = inf.listStatements();
+		while (iter.hasNext()) {
+			Statement stmt = iter.nextStatement();
+			Resource subject = stmt.getSubject();
+			Property predicate = stmt.getPredicate();
+			RDFNode object = stmt.getObject();
+
+			System.out.print(subject.toString());
+			System.out.print(" " + predicate.toString() + " ");
+			if (object instanceof Resource) {
+				System.out.print(object.toString());
+			} else {
+				// object is a literal
+				System.out.print(" \"" + object.toString() + "\"");
+			}
+			System.out.println(" .");
+		}
+		// inf.write(System.out);
+	}
 	/**
 	 * for examples from the book programming the semantic web by Cardosa J
 	 * http://www.academia.edu/2894895/Programming_The_Semantic_Web
@@ -503,28 +607,28 @@ public class OWLAPIDemoApplication {
 		String file="U:\\scis\\ASCL\\OntologyandSemantics\\university.owl";
 		String url="http://auriga:8080/Ontology/";
 		String baseURL="http://people.cis.fiu.edu/~rbaral/university.owl#";
-		OntModel model=ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
+		/*OntModel model=ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
 		//alternate copy of the ontology
 		OntDocumentManager dm=model.getDocumentManager();
 		dm.addAltEntry(url, "file:\\U:\\scis\\ASCL\\OntologyandSemantics\\university.owl");
 		dm.addAltEntry(url, "file:owlfiles//university.owl");
-		model.read(url);
+		model.read(url);*/
 		// Create an empty model.
-				//Model model = ModelFactory.createDefaultModel();
+				Model model = ModelFactory.createDefaultModel();
 
 				// Read the RDF/XML on standard in.
-				//model.read("file:dataset1.txt", "N3");
+				model.read("file:dataset1.txt", "N3");
 
 				// Create a simple RDFS++ Reasoner.
 				StringBuilder sb = new StringBuilder();
 				sb.append("[rdfs2:   (?x ?p ?y), (?p rdfs:domain ?c) -> (?x rdf:type ?c)] ");
 				sb.append("[rdfs3:   (?x ?p ?y), (?p rdfs:range ?c) -> (?y rdf:type ?c)] ");
 
-				sb.append("[rdfs6:   (?a ?p ?b), (?p rdfs:subPropertyOf ?q) -> (?a ?q ?b)] ");
-				sb.append("[rdfs5:   (?x rdfs:subPropertyOf ?y), (?y rdfs:subPropertyOf ?z) -> (?x rdfs:subPropertyOf ?z)] ");
+				sb.append("[rdfs1:   (?a ?p ?b), (?p rdfs:subPropertyOf ?q) -> (?a ?q ?b)] ");
+				sb.append("[rdfs2:   (?x rdfs:subPropertyOf ?y), (?y rdfs:subPropertyOf ?z) -> (?x rdfs:subPropertyOf ?z)] ");
 
-				sb.append("[rdfs9:   (?x rdfs:subClassOf ?y), (?a rdf:type ?x) -> (?a rdf:type ?y)] ");
-				sb.append("[rdfs11:  (?x rdfs:subClassOf ?y), (?y rdfs:subClassOf ?z) -> (?x rdfs:subClassOf ?z)] ");
+				sb.append("[rdfs5:   (?x rdfs:subClassOf ?y), (?a rdf:type ?x) -> (?a rdf:type ?y)] ");
+				sb.append("[rdfs6:  (?x rdfs:subClassOf ?y), (?y rdfs:subClassOf ?z) -> (?x rdfs:subClassOf ?z)] ");
 
 				sb.append("[owlinv:  (?x ?p ?y), (?p owl:inverseOf ?q) -> (?y ?q ?x)] ");
 				sb.append("[owlinv2: (?p owl:inverseOf ?q) -> (?q owl:inverseOf ?p)] ");

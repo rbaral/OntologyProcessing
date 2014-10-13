@@ -2,40 +2,41 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/antlr-2.7.5.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/arq.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/arq-extra.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/axis.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/commons-discovery-0.4.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/commons-lang-2.0.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/concurrent.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/edtftpj-1.5.2.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/ekitspell.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/icu4j_3_4.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/iri.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jcalendar.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jdom.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jena.jar" sourcepath="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jena-core-2.7.1-sources.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jep-2.4.0.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/json.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/junit.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/kazuki.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/log4j-1.2.12.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/looks.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/lucene-core-2.3.1.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/org.protege.editor.owl.codegeneration.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/orphanNodesAlg.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/owlapi-distribution.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/owlsyntax.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/protege.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/protege-owl.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/stax-api-1.0.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/swingx-1.0.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/swrl-jess-bridge.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/unicode_panel.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/wstx-asl-3.0.0.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/xercesImpl.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/jena-core-2.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/swrl-jess-bridge.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/wstx-asl-3.0.0.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/edtftpj-1.5.2.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/ekitspell.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/iri.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/jcalendar.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/jena.jar" sourcepath="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/jena-core-2.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/jep-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/json.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/junit.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/kazuki.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/lucene-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/orphanNodesAlg.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/owlsyntax.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/protege-owl.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/stax-api-1.0.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/swingx-1.0.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/arq.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/axis.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/commons-discovery-0.4.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/commons-lang-2.0.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/looks.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/protege.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/unicode_panel.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/org.protege.editor.owl.codegeneration.jar"/>
+	<classpathentry kind="lib" path="//bear-ad.cs.fiu.edu/homes/Documents/GitHub/OntologyProcessing/lib/owlapi-distribution.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

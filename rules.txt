@@ -1,2 +1,7 @@
-@prefix pre: <http://jena.hpl.hp.com/prefix#>.
-[rule1: (?f pre:father ?a) (?u pre:sister ?f) -> (?u pre:aunty ?a)]
+@prefix demo: <http://jena.hpl.hp.com/prefix#>.
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+[rule1: (?f demo:father ?a) (?u demo:sister ?f) -> (?u demo:aunty ?a)]
+[rule2: (?f demo:mother ?a) (?g demo:father ?a) -> (?f demo:spouse ?g)]
+[rule3: (?f demo:mother ?a) -> (?f demo:gender girl)]
+[rule3: (?f owl:teaaches ?a) -> (?f owl:employment Faculty)]
+[rule3: (?a owl:studies ?b) (?c owl:teaches ?b) -> (?c owl:teacherOf a)]

@@ -1449,3 +1449,85 @@ Caused by: java.net.ConnectException: Connection refused: connect
 2014.10.12 22:38:36.828 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
 2014.10.12 22:43:03.301 EDT INFO: *** SYSTEM START ***
 2014.10.12 22:43:03.946 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 09:54:05.247 EDT INFO: *** SYSTEM START ***
+2014.10.13 09:54:06.589 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 09:55:06.979 EDT INFO: *** SYSTEM START ***
+2014.10.13 09:55:08.372 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 09:55:34.893 EDT INFO: *** SYSTEM START ***
+2014.10.13 09:55:36.242 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 09:56:17.848 EDT INFO: *** SYSTEM START ***
+2014.10.13 09:56:19.209 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:26:41.075 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:26:42.540 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:28:48.187 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:28:49.631 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:32:27.521 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:32:28.978 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:32:54.804 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:32:56.194 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:33:34.887 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:33:36.378 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:34:19.685 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:34:21.048 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:34:34.986 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:34:36.366 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:35:41.941 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:35:43.396 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:48:39.892 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:48:41.253 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:56:54.440 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:56:55.868 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 10:58:07.234 EDT INFO: *** SYSTEM START ***
+2014.10.13 10:58:08.533 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 11:16:57.723 EDT INFO: *** SYSTEM START ***
+2014.10.13 11:16:59.156 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 11:18:22.010 EDT INFO: *** SYSTEM START ***
+2014.10.13 11:18:23.334 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 11:26:56.309 EDT INFO: *** SYSTEM START ***
+2014.10.13 11:26:57.791 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 11:31:38.183 EDT INFO: *** SYSTEM START ***
+2014.10.13 11:31:39.534 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 11:33:45.249 EDT INFO: *** SYSTEM START ***
+2014.10.13 11:33:46.671 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 11:36:34.718 EDT INFO: *** SYSTEM START ***
+2014.10.13 11:36:36.077 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 12:41:27.194 EDT INFO: *** SYSTEM START ***
+2014.10.13 12:41:28.552 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 12:42:09.436 EDT INFO: *** SYSTEM START ***
+2014.10.13 12:42:10.629 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 12:42:53.813 EDT INFO: *** SYSTEM START ***
+2014.10.13 12:42:55.001 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 13:42:44.680 EDT INFO: *** SYSTEM START ***
+2014.10.13 13:42:45.870 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 13:45:05.482 EDT INFO: *** SYSTEM START ***
+2014.10.13 13:45:06.758 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 13:45:28.204 EDT INFO: *** SYSTEM START ***
+2014.10.13 13:45:29.439 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 13:47:06.478 EDT INFO: *** SYSTEM START ***
+2014.10.13 13:47:07.695 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 13:53:28.103 EDT INFO: *** SYSTEM START ***
+2014.10.13 13:53:29.296 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 13:58:24.219 EDT INFO: *** SYSTEM START ***
+2014.10.13 13:58:25.444 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 13:58:44.178 EDT INFO: *** SYSTEM START ***
+2014.10.13 13:58:45.453 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:17:18.169 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:17:19.423 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:18:17.985 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:18:19.238 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:20:28.035 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:20:29.213 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:22:40.806 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:22:41.903 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:23:17.905 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:23:19.078 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:46:57.150 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:46:58.339 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:48:56.494 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:48:57.876 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:55:08.124 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:55:09.293 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 16:55:31.108 EDT INFO: *** SYSTEM START ***
+2014.10.13 16:55:32.265 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.13 17:00:36.959 EDT INFO: *** SYSTEM START ***
+2014.10.13 17:00:38.093 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()

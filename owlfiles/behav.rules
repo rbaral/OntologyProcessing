@@ -1,0 +1,22 @@
+@prefix sf: <http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+
+[TeacherOf:
+(?x sf:teaches ?y)
+(?z sf:studies ?y)
+->
+(?x sf:teacherOf ?z)
+]
+
+[Faculty:
+(?x sf:teaches ?y)
+->
+(?x sf:Faculty true)
+]
+
+[ClassMate:
+(?x sf:studies ?y)
+(?z sf:studies ?y)
+->
+(?x sf:classmateOf ?z)
+]

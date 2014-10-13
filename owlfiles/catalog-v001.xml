@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1413234110072" name="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl" uri="behaviorhealth.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1413234110072" name="http://eschwarz.com" uri="storeFront.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1413234110072" name="http://people.cis.fiu.edu/~rbaral/university.owl" uri="university.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1413234110072" name="http://rdfs.co/bevon/0.7" uri="beverageontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1413234110072" name="http://www.owl-ontologies.com/travel.owl" uri="travel.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1413234110072" name="http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine" uri="wineontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1413234110072" name="http://www.xfront.com/owl/ontologies/camera/" uri="camera.owl"/>
+    </group>
+</catalog>

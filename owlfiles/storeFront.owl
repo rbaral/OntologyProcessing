@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY eschwarz "http://eschwarz.com#" >
+    <!ENTITY storeFront "http://storeFront.com#" >
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY owl2xml "http://www.w3.org/2006/12/owl2-xml#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY storefront "http://csc.calpoly.edu/~eschwarz/ont/storefront.owl#" >
+]>
+
+
+<rdf:RDF xmlns="http://eschwarz.com#"
+     xml:base="http://eschwarz.com"
+     xmlns:eschwarz="http://eschwarz.com#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl2xml="http://www.w3.org/2006/12/owl2-xml#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:storeFront="http://storeFront.com#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:storefront="http://csc.calpoly.edu/~eschwarz/ont/storefront.owl#">
+    <owl:Ontology rdf:about="http://storeFront.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://storeFront.com#appliesTo -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;appliesTo">
+        <rdfs:range rdf:resource="&storeFront;Seller"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://storeFront.com#buyer -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;buyer">
+        <rdfs:range rdf:resource="&storeFront;Customer"/>
+        <rdfs:domain rdf:resource="&storeFront;PurchaseOrder"/>
+        <owl:propertyDisjointWith rdf:resource="&storeFront;seller"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://storeFront.com#hasForSale -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;hasForSale">
+        <rdfs:range rdf:resource="&storeFront;Merchandise"/>
+        <rdfs:domain rdf:resource="&storeFront;Seller"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://storeFront.com#hasMembership -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;hasMembership">
+        <rdfs:domain rdf:resource="&storeFront;Customer"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://storeFront.com#hasOrder -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;hasOrder"/>
+    
+
+
+    <!-- http://storeFront.com#hasPurchased -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;hasPurchased">
+        <owl:inverseOf rdf:resource="&storeFront;wasPurchasedBy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://storeFront.com#hasRating -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;hasRating"/>
+    
+
+
+    <!-- http://storeFront.com#purchase -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;purchase">
+        <rdfs:range rdf:resource="&storeFront;Merchandise"/>
+        <rdfs:domain rdf:resource="&storeFront;PurchaseOrder"/>
+        <owl:inverseOf rdf:resource="&storeFront;hasOrder"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://storeFront.com#seller -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;seller"/>
+    
+
+
+    <!-- http://storeFront.com#wasPurchasedBy -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;wasPurchasedBy">
+        <owl:propertyChainAxiom rdf:parseType="Collection">
+            <rdf:Description rdf:about="&storeFront;hasOrder"/>
+            <rdf:Description rdf:about="&storeFront;buyer"/>
+        </owl:propertyChainAxiom>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://storeFront.com#wasSoldBy -->
+
+    <owl:ObjectProperty rdf:about="&storeFront;wasSoldBy">
+        <owl:propertyChainAxiom rdf:parseType="Collection">
+            <rdf:Description rdf:about="&storeFront;hasOrder"/>
+            <rdf:Description rdf:about="&storeFront;seller"/>
+        </owl:propertyChainAxiom>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://storeFront.com#hasTitle -->
+
+    <owl:DatatypeProperty rdf:about="&storeFront;hasTitle">
+        <rdfs:domain rdf:resource="&storeFront;Merchandise"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://storeFront.com#isWorth -->
+
+    <owl:DatatypeProperty rdf:about="&storeFront;isWorth">
+        <rdfs:domain rdf:resource="&storeFront;Merchandise"/>
+        <rdfs:range rdf:resource="&xsd;decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://storeFront.com#Boolean -->
+
+    <owl:Class rdf:about="&storeFront;Boolean"/>
+    
+
+
+    <!-- http://storeFront.com#Customer -->
+
+    <owl:Class rdf:about="&storeFront;Customer">
+        <rdfs:subClassOf rdf:resource="&storeFront;Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://storeFront.com#DisfavorableRating -->
+
+    <owl:Class rdf:about="&storeFront;DisfavorableRating">
+        <rdfs:subClassOf rdf:resource="&storeFront;Rating"/>
+        <owl:disjointWith rdf:resource="&storeFront;FavorableRating"/>
+    </owl:Class>
+    
+
+
+    <!-- http://storeFront.com#FavorableRating -->
+
+    <owl:Class rdf:about="&storeFront;FavorableRating">
+        <rdfs:subClassOf rdf:resource="&storeFront;Rating"/>
+    </owl:Class>
+    
+
+
+    <!-- http://storeFront.com#FavoredSeller -->
+
+    <owl:Class rdf:about="&storeFront;FavoredSeller">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&storeFront;Seller"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&storeFront;hasRating"/>
+                        <owl:onClass rdf:resource="&storeFront;FavorableRating"/>
+                        <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">3</owl:minQualifiedCardinality>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&storeFront;Seller"/>
+    </owl:Class>
+    
+
+
+    <!-- http://storeFront.com#Merchandise -->
+
+    <owl:Class rdf:about="&storeFront;Merchandise"/>
+    
+
+
+    <!-- http://storeFront.com#Person -->
+
+    <owl:Class rdf:about="&storeFront;Person"/>
+    
+
+
+    <!-- http://storeFront.com#PriorityCustomer -->
+
+    <owl:Class rdf:about="&storeFront;PriorityCustomer">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&storeFront;Customer"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&storeFront;hasMembership"/>
+                        <owl:hasValue rdf:resource="&storeFront;True"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&storeFront;Customer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://storeFront.com#PurchaseOrder -->
+
+    <owl:Class rdf:about="&storeFront;PurchaseOrder">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://storeFront.com#Rating -->
+
+    <owl:Class rdf:about="&storeFront;Rating"/>
+    
+
+
+    <!-- http://storeFront.com#Seller -->
+
+    <owl:Class rdf:about="&storeFront;Seller">
+        <rdfs:subClassOf rdf:resource="&storeFront;Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#Thing -->
+
+    <owl:Class rdf:about="&owl;Thing"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://storeFront.com#False -->
+
+    <owl:Thing rdf:about="&storeFront;False">
+        <rdf:type rdf:resource="&storeFront;Boolean"/>
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://storeFront.com#JoansPurchase1 -->
+
+    <owl:Thing rdf:about="&storeFront;JoansPurchase1">
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://storeFront.com#Lisa -->
+
+    <owl:Thing rdf:about="&storeFront;Lisa">
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://storeFront.com#LisasRating1 -->
+
+    <owl:Thing rdf:about="&storeFront;LisasRating1">
+        <rdf:type rdf:resource="&storeFront;DisfavorableRating"/>
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+        <storeFront:appliesTo rdf:resource="&storeFront;Lisa"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://storeFront.com#Mike -->
+
+    <owl:Thing rdf:about="&storeFront;Mike">
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+        <storeFront:hasRating rdf:resource="&storeFront;MikesRating1"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://storeFront.com#MikesRating1 -->
+
+    <owl:Thing rdf:about="&storeFront;MikesRating1">
+        <rdf:type rdf:resource="&storeFront;FavorableRating"/>
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://storeFront.com#ThorActionFigure -->
+
+    <owl:Thing rdf:about="&storeFront;ThorActionFigure">
+        <rdf:type rdf:resource="&storeFront;Merchandise"/>
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+        <storeFront:isWorth rdf:datatype="&xsd;decimal">15.00</storeFront:isWorth>
+    </owl:Thing>
+    
+
+
+    <!-- http://storeFront.com#True -->
+
+    <owl:Thing rdf:about="&storeFront;True">
+        <rdf:type rdf:resource="&storeFront;Boolean"/>
+        <rdf:type rdf:resource="&owl;NamedIndividual"/>
+    </owl:Thing>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
