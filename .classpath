@@ -16,7 +16,7 @@
 	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/iri.jar"/>
 	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jcalendar.jar"/>
 	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jdom.jar"/>
-	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jena.jar"/>
+	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jena.jar" sourcepath="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jena-core-2.7.1-sources.jar"/>
 	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/jep-2.4.0.jar"/>
 	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/json.jar"/>
 	<classpathentry kind="lib" path="/home/rbaral/Documents/GitHub/OntologyProcessing/lib/junit.jar"/>
