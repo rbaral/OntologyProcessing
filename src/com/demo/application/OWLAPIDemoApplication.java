@@ -43,7 +43,9 @@ import com.hp.hpl.jena.reasoner.ValidityReport;
 import com.hp.hpl.jena.reasoner.rulesys.GenericRuleReasoner;
 import com.hp.hpl.jena.reasoner.rulesys.Rule;
 import com.hp.hpl.jena.util.FileManager;
+import com.hp.hpl.jena.util.PrintUtil;
 import com.hp.hpl.jena.util.iterator.ExtendedIterator;
+import com.hp.hpl.jena.vocabulary.RDF;
 import com.hp.hpl.jena.vocabulary.RDFS;
 
 import edu.stanford.smi.protege.exception.OntologyLoadException;
@@ -114,6 +116,7 @@ public class OWLAPIDemoApplication {
 		//alternate copy of the ontology
 		OntDocumentManager dm=model.getDocumentManager();
 		dm.addAltEntry(url, "file:\\U:\\scis\\ASCL\\OntologyandSemantics\\university.owl");
+		dm.addAltEntry(url, "file:owlfiles//university.owl");
 		model.read(url);
 		OntClass p=model.getOntClass(baseURL+"Person");
 		OntClass r=model.createClass(baseURL+"Employee");
@@ -173,6 +176,21 @@ public class OWLAPIDemoApplication {
 				System.out.println(i.next());
 				}
 			}
+		//get the information related to CS module
+		Resource res = infModel.getResource(baseURL+"M201");
+		System.out.println("CS103 *:");
+		for (StmtIterator i =infModel.listStatements(res,(Property)null,(Resource)null);i.hasNext(); ){
+			Statement stmt = i.nextStatement();
+			System.out.println(PrintUtil.print(stmt));
+			}
+		//check for contains relation
+		Resource r1 = infModel.getResource(baseURL+"Jorge");
+		Resource r2 = infModel.getResource(baseURL+"Person");
+		if (infModel.contains(r1, RDF.type, r2)) {
+			System.out.println("Jorge is a Person");
+			} else {
+				System.out.println("Jorge is not a Person");
+				}
 		
 	}
 

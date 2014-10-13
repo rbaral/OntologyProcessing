@@ -1413,3 +1413,29 @@ Caused by: java.net.ConnectException: Connection refused: connect
 2014.10.10 17:08:34.557 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
 2014.10.10 19:53:48.511 EDT INFO: *** SYSTEM START ***
 2014.10.10 19:53:49.978 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (\\bear-ad.cs.fiu.edu\homes\Documents\GitHub\OntologyProcessing\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 18:48:05.171 EDT INFO: *** SYSTEM START ***
+2014.10.12 18:48:07.006 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 18:48:23.028 EDT INFO: *** SYSTEM START ***
+2014.10.12 18:48:24.083 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 19:30:05.999 EDT INFO: *** SYSTEM START ***
+2014.10.12 19:30:07.465 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 19:32:39.599 EDT INFO: *** SYSTEM START ***
+2014.10.12 19:32:40.259 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 19:33:16.835 EDT INFO: *** SYSTEM START ***
+2014.10.12 19:33:17.566 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 19:34:17.671 EDT INFO: *** SYSTEM START ***
+2014.10.12 19:34:18.415 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 19:34:39.913 EDT INFO: *** SYSTEM START ***
+2014.10.12 19:34:40.646 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 19:35:10.462 EDT INFO: *** SYSTEM START ***
+2014.10.12 19:35:11.137 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 20:38:02.360 EDT INFO: *** SYSTEM START ***
+2014.10.12 20:38:03.772 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 20:38:18.700 EDT INFO: *** SYSTEM START ***
+2014.10.12 20:38:19.350 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 20:39:11.838 EDT INFO: *** SYSTEM START ***
+2014.10.12 20:39:12.466 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 20:39:28.350 EDT INFO: *** SYSTEM START ***
+2014.10.12 20:39:29.017 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.10.12 20:39:37.402 EDT INFO: *** SYSTEM START ***
+2014.10.12 20:39:38.102 EDT WARNING: [Local Folder Repository] The specified file must be a directory. (/home/rbaral/Documents/GitHub/OntologyProcessing/plugins/edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()

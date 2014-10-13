@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY university "http://people.cis.fiu.edu/~rbaral/university.owl#" >
+]>
+
+
+<rdf:RDF xmlns="http://people.cis.fiu.edu/~rbaral/university.owl#"
+     xml:base="http://people.cis.fiu.edu/~rbaral/university.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:university="http://people.cis.fiu.edu/~rbaral/university.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://people.cis.fiu.edu/~rbaral/university.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#studies -->
+
+    <owl:ObjectProperty rdf:about="&university;studies">
+        <rdfs:range rdf:resource="&university;Module"/>
+        <rdfs:domain rdf:resource="&university;Student"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#teaches -->
+
+    <owl:ObjectProperty rdf:about="&university;teaches">
+        <rdfs:domain rdf:resource="&university;Lecturer"/>
+        <rdfs:range rdf:resource="&university;Module"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#first_name -->
+
+    <owl:DatatypeProperty rdf:about="&university;first_name">
+        <rdfs:domain rdf:resource="&university;Person"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#last_name -->
+
+    <owl:DatatypeProperty rdf:about="&university;last_name">
+        <rdfs:domain rdf:resource="&university;Person"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#staff_id -->
+
+    <owl:DatatypeProperty rdf:about="&university;staff_id">
+        <rdfs:domain rdf:resource="&university;Lecturer"/>
+        <rdfs:range rdf:resource="&xsd;integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#student_id -->
+
+    <owl:DatatypeProperty rdf:about="&university;student_id">
+        <rdfs:domain rdf:resource="&university;Student"/>
+        <rdfs:range rdf:resource="&xsd;integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#CSModule -->
+
+    <owl:Class rdf:about="&university;CSModule">
+        <rdfs:subClassOf rdf:resource="&university;Module"/>
+    </owl:Class>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Lecturer -->
+
+    <owl:Class rdf:about="&university;Lecturer">
+        <rdfs:subClassOf rdf:resource="&university;Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#MathModule -->
+
+    <owl:Class rdf:about="&university;MathModule">
+        <rdfs:subClassOf rdf:resource="&university;Module"/>
+    </owl:Class>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Module -->
+
+    <owl:Class rdf:about="&university;Module"/>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Person -->
+
+    <owl:Class rdf:about="&university;Person"/>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Student -->
+
+    <owl:Class rdf:about="&university;Student">
+        <rdfs:subClassOf rdf:resource="&university;Person"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#CS101 -->
+
+    <owl:NamedIndividual rdf:about="&university;CS101">
+        <rdf:type rdf:resource="&university;CSModule"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#CS103 -->
+
+    <owl:NamedIndividual rdf:about="&university;CS103">
+        <rdf:type rdf:resource="&university;CSModule"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Lecturer1 -->
+
+    <owl:NamedIndividual rdf:about="&university;Lecturer1">
+        <rdf:type rdf:resource="&university;Lecturer"/>
+        <staff_id rdf:datatype="&xsd;integer">1011</staff_id>
+        <last_name rdf:datatype="&xsd;string">Diason</last_name>
+        <first_name rdf:datatype="&xsd;string">Lasian</first_name>
+        <teaches rdf:resource="&university;CS103"/>
+        <teaches rdf:resource="&university;M201"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Lecturer2 -->
+
+    <owl:NamedIndividual rdf:about="&university;Lecturer2">
+        <rdf:type rdf:resource="&university;Lecturer"/>
+        <staff_id rdf:datatype="&xsd;integer">1007</staff_id>
+        <first_name rdf:datatype="&xsd;string">Michael</first_name>
+        <last_name rdf:datatype="&xsd;string">Sipser</last_name>
+        <teaches rdf:resource="&university;CS103"/>
+        <teaches rdf:resource="&university;M204"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#M201 -->
+
+    <owl:NamedIndividual rdf:about="&university;M201">
+        <rdf:type rdf:resource="&university;MathModule"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#M204 -->
+
+    <owl:NamedIndividual rdf:about="&university;M204">
+        <rdf:type rdf:resource="&university;MathModule"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Student1 -->
+
+    <owl:NamedIndividual rdf:about="&university;Student1">
+        <rdf:type rdf:resource="&university;Student"/>
+        <student_id rdf:datatype="&xsd;integer">2001</student_id>
+        <first_name rdf:datatype="&xsd;string">Jorge</first_name>
+        <last_name rdf:datatype="&xsd;string">Travieso</last_name>
+        <studies rdf:resource="&university;CS103"/>
+        <studies rdf:resource="&university;M204"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Student2 -->
+
+    <owl:NamedIndividual rdf:about="&university;Student2">
+        <rdf:type rdf:resource="&university;Student"/>
+        <student_id rdf:datatype="&xsd;integer">2002</student_id>
+        <last_name rdf:datatype="&xsd;string">Arrazola</last_name>
+        <first_name rdf:datatype="&xsd;string">Guido</first_name>
+        <studies rdf:resource="&university;CS101"/>
+        <studies rdf:resource="&university;M201"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://people.cis.fiu.edu/~rbaral/university.owl#Student3 -->
+
+    <owl:NamedIndividual rdf:about="&university;Student3">
+        <rdf:type rdf:resource="&university;Student"/>
+        <student_id rdf:datatype="&xsd;integer">2004</student_id>
+        <last_name rdf:datatype="&xsd;string">Bobadilla</last_name>
+        <first_name rdf:datatype="&xsd;string">Leo</first_name>
+        <studies rdf:resource="&university;CS101"/>
+        <studies rdf:resource="&university;M201"/>
+        <studies rdf:resource="&university;M204"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="&university;CSModule"/>
+            <rdf:Description rdf:about="&university;Lecturer"/>
+            <rdf:Description rdf:about="&university;MathModule"/>
+            <rdf:Description rdf:about="&university;Student"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
