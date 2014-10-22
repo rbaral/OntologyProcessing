@@ -1,22 +1,45 @@
 @prefix sf: <http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-[TeacherOf:
-(?x sf:teaches ?y)
-(?z sf:studies ?y)
+[IsWhisky:
+(?a rdf:type sf:AmericanWhisky)
 ->
-(?x sf:teacherOf ?z)
+(?a sf:IsWhisky Whisky)
 ]
 
-[Faculty:
-(?x sf:teaches ?y)
+[IsSpirits1:
+(?a rdf:type sf:ScotchWhiskey)
 ->
-(?x sf:Faculty true)
+(?a sf:IsSpirits Spirits)
 ]
 
-[ClassMate:
-(?x sf:studies ?y)
-(?z sf:studies ?y)
+[IsSpirits2:
+(?a rdf:type sf:AmericanWhisky)
 ->
-(?x sf:classmateOf ?z)
+(?a sf:IsSpirits Spirits)
+]
+
+[UnhealthyPractice1:
+(?a rdf:type sf:HeavyDrinker)
+->
+(?a sf:IsUnhealthyPractice 'UnHealthy Practice')
+]
+
+[UnhealthyPractice2:
+(?a rdf:type sf:ModerateDrinker)
+->
+(?a sf:IsUnhealthyPractice 'UnHealthy Practice')
+]
+
+[UnhealthyPractice3:
+(?a rdf:type sf:SocialDrinker)
+->
+(?a sf:IsUnhealthyPractice 'UnHealthy Practice')
+]
+
+[HarmfulDrinking:
+(?a rdf:healthState sf:UnhealthyState)
+(?a rdf:drinker sf:HeavyDrinker)
+->
+(?a sf:IsHarmfulDrinking 'Harmful Drinking')
 ]

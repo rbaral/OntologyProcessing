@@ -1,11 +1,16 @@
 package com.demo.application;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.io.InputStream;
 import java.util.Collection;
+import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 
 import org.semanticweb.owlapi.apibinding.OWLManager;
 import org.semanticweb.owlapi.model.OWLOntologyCreationException;
@@ -94,8 +99,8 @@ public class OWLAPIDemoApplication {
 			//loadUniversityJena(univOwl);
 			//testInference(null);
 			//testReasoningWithRules();
-			testReasoningWithRulesForUniversity();
-			//testReasoningForBehaviorHealth();
+			//testReasoningWithRulesForUniversity();
+			testReasoningForBehaviorHealth();
 			//progOnt();
 		} catch (OntologyLoadException e) {
 			// TODO Auto-generated catch block
@@ -104,7 +109,21 @@ public class OWLAPIDemoApplication {
 
 	}
 	
+	/**
+	 * 
+	 * @author Ramesh R. Baral
+	 * @Version 1.0
+	 * @since Oct 22, 2014
+	 * I prefer JimBeam
+		So you like to have Spirits, is that right?
+		Based on the number of drinks user responds, categorize user into Abstainer, Moderate, Light, Heavy drinker and acknowledge accordingly.
+U_1: Yes it is more than 4 drinks
+A_1: Having more than 4 drinks a day is not considered as healthy activity.
+
+
+	 */
 	public static void testReasoningForBehaviorHealth() {
+		boolean applyRule=true;
 		String url = "http://auriga:8080/Ontology/";
 		OntModel model = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
 		// alternate copy of the ontology
@@ -114,30 +133,86 @@ public class OWLAPIDemoApplication {
 		model.read(url);
 		Reasoner reasoner = new  
                 GenericRuleReasoner(Rule.rulesFromURL("file:owlfiles//behav.rules"));
+		Map<String,String> applicableRules=new HashMap<String,String>();
+		applicableRules.put("IsWhisky", "IsWhisky");
+		applicableRules.put("IsSpirits", "IsSpirits");
+		applicableRules.put("IsUnhealthyPractice", "IsUnhealthyPractice");
+		applicableRules.put("IsHarmfulDrinking", "IsHarmfulDrinking");
 		//reasoner.setOWLTranslation(true);
 		// Create inferred model using the reasoner and write it out.
 		InfModel inf = ModelFactory.createInfModel(reasoner, model); 
 		  
         //print out the statements in the model 
 		StmtIterator iter = inf.listStatements();
-		while (iter.hasNext()) {
-			Statement stmt = iter.nextStatement();
-			Resource subject = stmt.getSubject();
-			Property predicate = stmt.getPredicate();
-			RDFNode object = stmt.getObject();
+		StringBuffer output=new StringBuffer();
+		if(applyRule){
+			while (iter.hasNext()) {
+				Statement stmt = iter.nextStatement();
+				Resource subject = stmt.getSubject();
+				Property predicate = stmt.getPredicate();
+				RDFNode object = stmt.getObject();
+				
+				if(applicableRules.containsKey(predicate.getLocalName().toString())){
+					//System.out.print(subject.toString());
+					System.out.print(" " + predicate.getLocalName().toString() + " ");
+					output.append(subject.getLocalName().toString());
+					//output.append(" " + predicate.getLocalName().toString() + " ");
+					if (object instanceof Resource) {
+						output.append(" "+object.toString());
+					} else {
+						// object is a literal
+						System.out.println("***is not resource");
+						//System.out.print(" \"" + object.toString() + "\"");
+						output.append(" "+object.toString());
+					}
+					output.append("\n");
+					System.out.println(".");
+				}
 
-			System.out.print(subject.toString());
-			System.out.print(" " + predicate.toString() + " ");
-			if (object instanceof Resource) {
-				System.out.print(object.toString());
-			} else {
-				// object is a literal
-				System.out.print(" \"" + object.toString() + "\"");
-			}
-			System.out.println(" .");
+			}	
 		}
-		// inf.write(System.out);
-	}
+		else{
+			ExtendedIterator exIterator=model.listClasses();
+			OntClass ocl;
+			Individual ind;
+			
+			while(exIterator.hasNext()){
+				ocl=(OntClass)exIterator.next();
+				//System.out.println(ocl.getLocalName()+" has subclass:"+ocl.hasSubClass());
+				//if(ocl.hasSubClass()){
+					for(ExtendedIterator it=ocl.listInstances();it.hasNext();){
+						ind=(Individual)it.next();
+						System.out.println("***Individual "+ind.toString());
+						System.out.println("Properties:");
+						output.append("\n***Individual "+ind.toString());
+						output.append("\nProperties:");
+						for(StmtIterator j=ind.listProperties();j.hasNext();){
+							String nextElem=j.next().toString();
+							System.out.println(" "+nextElem);
+							output.append("\n"+nextElem);
+							}
+					}
+				//}
+
+			}
+		}
+			try {
+				BufferedWriter bos=new BufferedWriter(new FileWriter("U:\\Documents\\GitHub\\OntologyProcessing\\test.txt"));
+				bos.write(output.toString());
+				bos.flush();bos.close();
+			} catch (FileNotFoundException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			// inf.write(System.out);
+	 catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+
+		
+		
 	
 	
 	public static void testReasoningWithRulesForUniversity() {

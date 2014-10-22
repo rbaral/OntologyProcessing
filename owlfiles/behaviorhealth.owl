@@ -9,200 +9,200 @@
     <!ENTITY AddictionBehavioralHealth3 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#1" >
     <!ENTITY AddictionBehavioralHealth "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#49" >
     <!ENTITY AddictionBehavioralHealth2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#21" >
-    <!ENTITY Sam "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brit" >
-    <!ENTITY Lou2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lou&#39;" >
-    <!ENTITY Moe "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Robe" >
-    <!ENTITY Moe2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&#39;" >
-    <!ENTITY Mac2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mac&#39;" >
     <!ENTITY Mac "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Toot" >
-    <!ENTITY Nye "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&#39;" >
-    <!ENTITY Dee "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&#39;" >
-    <!ENTITY Sam2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sam&#39;" >
+    <!ENTITY Nye "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&apos;" >
     <!ENTITY Lou "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ginn" >
+    <!ENTITY Lou2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lou&apos;" >
+    <!ENTITY Moe "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Robe" >
+    <!ENTITY Sam2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sam&apos;" >
+    <!ENTITY Moe2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&apos;" >
+    <!ENTITY Sam "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brit" >
+    <!ENTITY Mac2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mac&apos;" >
+    <!ENTITY Dee "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&apos;" >
+    <!ENTITY Fred2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fred&apos;" >
     <!ENTITY Leon "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Leon’" >
-    <!ENTITY Burt "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&#39;" >
+    <!ENTITY Bill "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&apos;" >
+    <!ENTITY Burt "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&apos;" >
+    <!ENTITY Donn2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Donn&apos;" >
+    <!ENTITY Zeke "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&apos;&apos;" >
     <!ENTITY Fred "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JohnD" >
-    <!ENTITY Zeke2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Zeke&#39;" >
-    <!ENTITY Fred2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fred&#39;" >
-    <!ENTITY Zeke "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&#39;&#39;" >
-    <!ENTITY Tiny "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tiny&#39;" >
-    <!ENTITY Bill "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&#39;" >
-    <!ENTITY Donn2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Donn&#39;" >
+    <!ENTITY Brit "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brit&apos;" >
     <!ENTITY Donn "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Walte" >
-    <!ENTITY Brit "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brit&#39;" >
-    <!ENTITY Jimmy3 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy’" >
-    <!ENTITY Silva "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Silva&#39;" >
-    <!ENTITY Wendy "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wendy&#39;" >
-    <!ENTITY Steak "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak&#39;" >
-    <!ENTITY Monte "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&#39;" >
-    <!ENTITY Doyle "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&#39;" >
-    <!ENTITY Rosie2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosie&#39;" >
-    <!ENTITY Copad "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Copad’" >
-    <!ENTITY Angel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&#39;" >
-    <!ENTITY Ginny "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ginny&#39;" >
+    <!ENTITY Zeke2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Zeke&apos;" >
+    <!ENTITY Tiny "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tiny&apos;" >
+    <!ENTITY Jimmy "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tommy&apos;" >
+    <!ENTITY Angel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&apos;" >
+    <!ENTITY Steak "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak&apos;" >
+    <!ENTITY Silva "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Silva&apos;" >
+    <!ENTITY Jimbo2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimbo&apos;" >
+    <!ENTITY Denny "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Denny&apos;" >
+    <!ENTITY FiveO "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&apos;" >
+    <!ENTITY Monte "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&apos;" >
+    <!ENTITY Kelly "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&apos;" >
     <!ENTITY Jimbo "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fritze" >
-    <!ENTITY Jimbo2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimbo&#39;" >
-    <!ENTITY Kelly "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&#39;" >
-    <!ENTITY FiveO "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&#39;" >
-    <!ENTITY Jimmy2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy&#39;" >
-    <!ENTITY Jumbo "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jumbo&#39;" >
-    <!ENTITY Denny "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Denny&#39;" >
-    <!ENTITY Jimmy "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tommy&#39;" >
+    <!ENTITY Jimmy3 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy’" >
+    <!ENTITY Jumbo "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jumbo&apos;" >
+    <!ENTITY Ginny "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ginny&apos;" >
+    <!ENTITY Copad "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Copad’" >
     <!ENTITY Rosie "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Andyma" >
-    <!ENTITY Manuel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Manuel’" >
-    <!ENTITY Miller2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller&#39;" >
-    <!ENTITY Miller "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&#39;r&#39;" >
+    <!ENTITY Wendy "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wendy&apos;" >
+    <!ENTITY Rosie2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosie&apos;" >
+    <!ENTITY Doyle "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&apos;" >
+    <!ENTITY Jimmy2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy&apos;" >
+    <!ENTITY Miller2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller&apos;" >
+    <!ENTITY People "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People&apos;" >
+    <!ENTITY Miller "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&apos;r&apos;" >
+    <!ENTITY Robert "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Robert&apos;" >
+    <!ENTITY Brewer2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brewer&apos;" >
+    <!ENTITY Brewer "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&apos;&apos;" >
+    <!ENTITY Dunkin "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dunkin&apos;" >
     <!ENTITY Arnaud "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Arnaud’" >
-    <!ENTITY Freddy2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Freddy&#39;" >
-    <!ENTITY People2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People’" >
     <!ENTITY Freddy "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTu" >
-    <!ENTITY Brewer2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brewer&#39;" >
-    <!ENTITY Dunkin "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dunkin&#39;" >
-    <!ENTITY Brewer "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&#39;&#39;" >
-    <!ENTITY Robert "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Robert&#39;" >
-    <!ENTITY People "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People&#39;" >
-    <!ENTITY FatMatt "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FatMatt&#39;" >
-    <!ENTITY Lafitte "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lafitte’" >
-    <!ENTITY Fritzel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fritzel&#39;" >
-    <!ENTITY SamBond "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&#39;d&#39;" >
-    <!ENTITY Charlie "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Charlie&#39;" >
+    <!ENTITY Freddy2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Freddy&apos;" >
+    <!ENTITY Manuel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Manuel’" >
+    <!ENTITY People2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People’" >
+    <!ENTITY SamBond2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SamBond&apos;" >
+    <!ENTITY Andyman "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Andyman&apos;" >
+    <!ENTITY Charlie "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Charlie&apos;" >
+    <!ENTITY Fritzel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fritzel&apos;" >
     <!ENTITY Brennan "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Callagha" >
-    <!ENTITY Brennan2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brennan&#39;" >
-    <!ENTITY SamBond2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SamBond&#39;" >
-    <!ENTITY Andyman "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Andyman&#39;" >
-    <!ENTITY Tootsie "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tootsie&#39;" >
-    <!ENTITY McGovern "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&#39;vern&#39;" >
-    <!ENTITY Malley "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&#39;Malley&#39;" >
+    <!ENTITY Tootsie "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tootsie&apos;" >
+    <!ENTITY SamBond "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&apos;d&apos;" >
+    <!ENTITY FatMatt "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FatMatt&apos;" >
+    <!ENTITY Brennan2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brennan&apos;" >
+    <!ENTITY Lafitte "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lafitte’" >
+    <!ENTITY McGovern2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McGovern&apos;" >
+    <!ENTITY McGovern "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&apos;vern&apos;" >
+    <!ENTITY Pengilly "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pengilly&apos;" >
+    <!ENTITY Schimmel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PJClarke&apos;" >
     <!ENTITY Smuggler "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Smuggler’" >
-    <!ENTITY PoMonkey2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PoMonkey&#39;" >
+    <!ENTITY PoMonkey2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PoMonkey&apos;" >
+    <!ENTITY McDonald "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonald&apos;" >
     <!ENTITY JimmyMak "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JimmyMak’" >
-    <!ENTITY Schimmel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PJClarke&#39;" >
-    <!ENTITY CharlieB2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CharlieB&#39;" >
-    <!ENTITY McDonald "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonald&#39;" >
-    <!ENTITY CharlieB "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&#39;eB&#39;" >
-    <!ENTITY McGovern2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McGovern&#39;" >
-    <!ENTITY Schimmel2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Schimmel&#39;" >
-    <!ENTITY Pengilly "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pengilly&#39;" >
+    <!ENTITY Schimmel2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Schimmel&apos;" >
     <!ENTITY PoMonkey "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MitziJerm" >
-    <!ENTITY Callaghan "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Callaghan&#39;" >
-    <!ENTITY Churchill "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Churchill&#39;" >
-    <!ENTITY ProudLarry2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ProudLarry&#39;" >
-    <!ENTITY ProudLarry "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&#39;arry&#39;" >
-    <!ENTITY NickyBlaine2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NickyBlaine&#39;" >
-    <!ENTITY sAndJoe2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&#39;sAndJoe&#39;" >
-    <!ENTITY MitziJerman "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MitziJerman&#39;" >
-    <!ENTITY NickyBlaine "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&#39;Malley&#39;ne&#39;" >
-    <!ENTITY JohnDMcGurk "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JohnDMcGurk&#39;" >
-    <!ENTITY sAndJoe "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&#39;ndJoe&#39;" >
-    <!ENTITY BarAtTujague "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTujague&#39;" >
-    <!ENTITY WalterPayton "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#WalterPayton&#39;" >
-    <!ENTITY PinkieMaster "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PinkieMaster&#39;" >
-    <!ENTITY MichaelAndLouise "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MichaelAndLouise&#39;" >
-    <!ENTITY ErnestineAndHazel2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ErnestineAndHazel&#39;" >
-    <!ENTITY ErnestineAndHazel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&#39;tineAndHazel&#39;" >
+    <!ENTITY Malley "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&apos;Malley&apos;" >
+    <!ENTITY CharlieB2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CharlieB&apos;" >
+    <!ENTITY CharlieB "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&apos;eB&apos;" >
+    <!ENTITY Churchill "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Churchill&apos;" >
+    <!ENTITY Callaghan "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Callaghan&apos;" >
+    <!ENTITY ProudLarry "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&apos;arry&apos;" >
+    <!ENTITY ProudLarry2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ProudLarry&apos;" >
+    <!ENTITY NickyBlaine2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NickyBlaine&apos;" >
+    <!ENTITY NickyBlaine "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&apos;Malley&apos;ne&apos;" >
+    <!ENTITY MitziJerman "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MitziJerman&apos;" >
+    <!ENTITY sAndJoe2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&apos;sAndJoe&apos;" >
+    <!ENTITY sAndJoe "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&apos;ndJoe&apos;" >
+    <!ENTITY JohnDMcGurk "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JohnDMcGurk&apos;" >
+    <!ENTITY PinkieMaster "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PinkieMaster&apos;" >
+    <!ENTITY BarAtTujague "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTujague&apos;" >
+    <!ENTITY WalterPayton "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#WalterPayton&apos;" >
+    <!ENTITY MichaelAndLouise "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MichaelAndLouise&apos;" >
+    <!ENTITY ErnestineAndHazel2 "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ErnestineAndHazel&apos;" >
+    <!ENTITY ErnestineAndHazel "http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&apos;tineAndHazel&apos;" >
 ]>
 
 
 <rdf:RDF xmlns="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#"
      xml:base="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl"
-     xmlns:Jimmy="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tommy&#39;"
-     xmlns:Moe="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Robe"
-     xmlns:McGovern="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&#39;vern&#39;"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:NickyBlaine="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&#39;Malley&#39;ne&#39;"
-     xmlns:Burt="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&#39;"
-     xmlns:PinkieMaster="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PinkieMaster&#39;"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:Zeke="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&#39;&#39;"
-     xmlns:Callaghan="&Brennan;n&#39;"
-     xmlns:Tiny="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tiny&#39;"
-     xmlns:Churchill="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Churchill&#39;"
-     xmlns:NickyBlaine2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NickyBlaine&#39;"
-     xmlns:Arnaud="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Arnaud’"
-     xmlns:Brennan2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brennan&#39;"
-     xmlns:PoMonkey2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PoMonkey&#39;"
-     xmlns:FiveO="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&#39;"
-     xmlns:Dee="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&#39;"
-     xmlns:JimmyMak="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JimmyMak’"
-     xmlns:Schimmel2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Schimmel&#39;"
-     xmlns:Angel="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&#39;"
-     xmlns:Brewer2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brewer&#39;"
+     xmlns:Freddy2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Freddy&apos;"
+     xmlns:PinkieMaster="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PinkieMaster&apos;"
+     xmlns:Pengilly="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pengilly&apos;"
      xmlns:Fred="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JohnD"
-     xmlns:Robert="&Moe;rt&#39;"
-     xmlns:MichaelAndLouise="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MichaelAndLouise&#39;"
-     xmlns:Monte="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&#39;"
-     xmlns:Charlie="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Charlie&#39;"
-     xmlns:Freddy2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Freddy&#39;"
-     xmlns:McGovern2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McGovern&#39;"
-     xmlns:Nye="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&#39;"
-     xmlns:FatMatt="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FatMatt&#39;"
-     xmlns:CharlieB2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CharlieB&#39;"
-     xmlns:Steak="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak&#39;"
-     xmlns:JohnDMcGurk="&Fred;McGurk&#39;"
-     xmlns:sAndJoe2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&#39;sAndJoe&#39;"
-     xmlns:McDonald="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonald&#39;"
-     xmlns:Jimbo2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimbo&#39;"
+     xmlns:JohnDMcGurk="&Fred;McGurk&apos;"
+     xmlns:Callaghan="&Brennan;n&apos;"
+     xmlns:PoMonkey2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PoMonkey&apos;"
      xmlns:Sam="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brit"
-     xmlns:Kelly="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&#39;"
-     xmlns:Miller="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&#39;r&#39;"
-     xmlns:Jimmy3="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy’"
-     xmlns:Schimmel="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PJClarke&#39;"
-     xmlns:Pengilly="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pengilly&#39;"
-     xmlns:Denny="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Denny&#39;"
-     xmlns:Lafitte="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lafitte’"
-     xmlns:BarAtTujague="&Freddy;jague&#39;"
-     xmlns:SamBond="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&#39;d&#39;"
-     xmlns:Donn="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Walte"
-     xmlns:Jumbo="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jumbo&#39;"
-     xmlns:WalterPayton="&Donn;rPayton&#39;"
-     xmlns:Mac2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mac&#39;"
-     xmlns:Jimmy2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy&#39;"
-     xmlns:Lou2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lou&#39;"
-     xmlns:Donn2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Donn&#39;"
-     xmlns:AddictionBehavioralHealth2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#21"
-     xmlns:Bill="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&#39;"
-     xmlns:People2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People’"
-     xmlns:People="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People&#39;"
-     xmlns:Fritzel="&Jimbo;l&#39;"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:CharlieB="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&#39;eB&#39;"
-     xmlns:Andyman="&Rosie;n&#39;"
-     xmlns:Zeke2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Zeke&#39;"
-     xmlns:Brewer="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&#39;&#39;"
-     xmlns:Ginny="&Lou;y&#39;"
-     xmlns:AddictionBehavioralHealth3="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#1"
-     xmlns:MitziJerman="&PoMonkey;an&#39;"
-     xmlns:Brit="&Sam;&#39;"
-     xmlns:Rosie2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosie&#39;"
-     xmlns:Rosie="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Andyma"
-     xmlns:Miller2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller&#39;"
-     xmlns:AddictionBehavioralHealth="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#49"
-     xmlns:Jimbo="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fritze"
-     xmlns:Fred2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fred&#39;"
-     xmlns:SamBond2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SamBond&#39;"
-     xmlns:Tootsie="&Mac;sie&#39;"
-     xmlns:ErnestineAndHazel2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ErnestineAndHazel&#39;"
-     xmlns:Freddy="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTu"
-     xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:Mac="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Toot"
-     xmlns:ProudLarry="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&#39;arry&#39;"
-     xmlns:Malley="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&#39;Malley&#39;"
-     xmlns:Lou="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ginn"
-     xmlns:Leon="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Leon’"
-     xmlns:sAndJoe="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&#39;ndJoe&#39;"
-     xmlns:ErnestineAndHazel="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&#39;tineAndHazel&#39;"
-     xmlns:Dunkin="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dunkin&#39;"
+     xmlns:Donn2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Donn&apos;"
+     xmlns:Fritzel="&Jimbo;l&apos;"
      xmlns:PoMonkey="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MitziJerm"
-     xmlns:Sam2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sam&#39;"
-     xmlns:Smuggler="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Smuggler’"
-     xmlns:ProudLarry2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ProudLarry&#39;"
-     xmlns:Wendy="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wendy&#39;"
-     xmlns:Manuel="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Manuel’"
-     xmlns:Doyle="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&#39;"
-     xmlns:Moe2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&#39;"
-     xmlns:Brennan="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Callagha"
+     xmlns:JimmyMak="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JimmyMak’"
+     xmlns:Leon="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Leon’"
+     xmlns:Andyman="&Rosie;n&apos;"
+     xmlns:SamBond="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&apos;d&apos;"
+     xmlns:Arnaud="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Arnaud’"
+     xmlns:Sam2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sam&apos;"
+     xmlns:NickyBlaine2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NickyBlaine&apos;"
      xmlns:Copad="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Copad’"
-     xmlns:Silva="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Silva&#39;">
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:Zeke2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Zeke&apos;"
+     xmlns:Miller="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&apos;r&apos;"
+     xmlns:AddictionBehavioralHealth="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#49"
+     xmlns:Miller2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller&apos;"
+     xmlns:Moe="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Robe"
+     xmlns:Ginny="&Lou;y&apos;"
+     xmlns:Moe2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&apos;"
+     xmlns:Freddy="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTu"
+     xmlns:BarAtTujague="&Freddy;jague&apos;"
+     xmlns:WalterPayton="&Donn;rPayton&apos;"
+     xmlns:ErnestineAndHazel2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ErnestineAndHazel&apos;"
+     xmlns:Dee="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&apos;"
+     xmlns:Jimmy="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tommy&apos;"
+     xmlns:Brennan2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brennan&apos;"
+     xmlns:sAndJoe="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&apos;ndJoe&apos;"
+     xmlns:Angel="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&apos;"
+     xmlns:CharlieB="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&apos;eB&apos;"
+     xmlns:McGovern2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McGovern&apos;"
+     xmlns:Brewer2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brewer&apos;"
+     xmlns:Bill="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&apos;"
+     xmlns:Jumbo="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jumbo&apos;"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:Tiny="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tiny&apos;"
+     xmlns:Wendy="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wendy&apos;"
+     xmlns:Churchill="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Churchill&apos;"
+     xmlns:Charlie="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Charlie&apos;"
+     xmlns:FatMatt="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FatMatt&apos;"
+     xmlns:Lafitte="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lafitte’"
+     xmlns:Brennan="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Callagha"
+     xmlns:Denny="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Denny&apos;"
+     xmlns:Brewer="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&apos;&apos;"
+     xmlns:Kelly="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&apos;"
+     xmlns:Nye="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&apos;"
+     xmlns:Zeke="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&apos;&apos;"
+     xmlns:Manuel="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Manuel’"
+     xmlns:Brit="&Sam;&apos;"
+     xmlns:Steak="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak&apos;"
+     xmlns:Dunkin="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dunkin&apos;"
+     xmlns:Jimbo="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fritze"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:MitziJerman="&PoMonkey;an&apos;"
+     xmlns:Rosie="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Andyma"
+     xmlns:ProudLarry2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ProudLarry&apos;"
+     xmlns:Smuggler="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Smuggler’"
+     xmlns:SamBond2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SamBond&apos;"
+     xmlns:Schimmel2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Schimmel&apos;"
+     xmlns:Monte="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&apos;"
+     xmlns:Mac="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Toot"
+     xmlns:Tootsie="&Mac;sie&apos;"
+     xmlns:Burt="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&apos;"
+     xmlns:McDonald="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonald&apos;"
+     xmlns:ProudLarry="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&apos;arry&apos;"
+     xmlns:Doyle="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&apos;"
+     xmlns:Robert="&Moe;rt&apos;"
+     xmlns:Lou="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ginn"
+     xmlns:CharlieB2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CharlieB&apos;"
+     xmlns:Fred2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fred&apos;"
+     xmlns:Donn="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Walte"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:McGovern="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&apos;vern&apos;"
+     xmlns:Jimmy3="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy’"
+     xmlns:sAndJoe2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&apos;sAndJoe&apos;"
+     xmlns:Jimmy2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy&apos;"
+     xmlns:Lou2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lou&apos;"
+     xmlns:FiveO="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&apos;"
+     xmlns:NickyBlaine="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&apos;Malley&apos;ne&apos;"
+     xmlns:People2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People’"
+     xmlns:Malley="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&apos;Malley&apos;"
+     xmlns:ErnestineAndHazel="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&apos;tineAndHazel&apos;"
+     xmlns:Jimbo2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimbo&apos;"
+     xmlns:Schimmel="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PJClarke&apos;"
+     xmlns:AddictionBehavioralHealth3="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#1"
+     xmlns:Mac2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mac&apos;"
+     xmlns:Silva="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Silva&apos;"
+     xmlns:AddictionBehavioralHealth2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#21"
+     xmlns:MichaelAndLouise="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MichaelAndLouise&apos;"
+     xmlns:Rosie2="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosie&apos;"
+     xmlns:People="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People&apos;">
     <owl:Ontology rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl"/>
     
 
@@ -221,8 +221,8 @@
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#IsA -->
 
     <owl:ObjectProperty rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#IsA">
-        <rdfs:domain rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#AlcoholicBeverage"/>
         <rdfs:range rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#AlcoholicBeverage"/>
+        <rdfs:domain rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#AlcoholicBeverage"/>
     </owl:ObjectProperty>
     
 
@@ -269,6 +269,16 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Abstainer -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Abstainer">
+        <owl:equivalentClass rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SocialDrinker"/>
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Drinker"/>
+        <rdfs:comment></rdfs:comment>
+    </owl:Class>
     
 
 
@@ -422,6 +432,14 @@
     
 
 
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Drinker -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Drinker">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Person"/>
+    </owl:Class>
+    
+
+
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ecstasy -->
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ecstasy">
@@ -556,6 +574,23 @@
     
 
 
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthyState -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthyState">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HeavyDrinker -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HeavyDrinker">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Drinker"/>
+        <rdfs:comment rdf:datatype="&rdfs;Literal"></rdfs:comment>
+    </owl:Class>
+    
+
+
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Herb -->
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Herb">
@@ -580,10 +615,28 @@
     
 
 
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#LightDrinker -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#LightDrinker">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Drinker"/>
+        <rdfs:comment></rdfs:comment>
+    </owl:Class>
+    
+
+
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Meat -->
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Meat">
         <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthyFood"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ModerateDrinker -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ModerateDrinker">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Drinker"/>
+        <rdfs:comment></rdfs:comment>
     </owl:Class>
     
 
@@ -610,6 +663,14 @@
     
 
 
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nausea -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nausea">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NegativeChange -->
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NegativeChange">
@@ -628,6 +689,14 @@
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub">
         <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HaveOrInvolveAlcohol"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NonDrinker -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NonDrinker">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Person"/>
     </owl:Class>
     
 
@@ -748,6 +817,14 @@
     
 
 
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SocialDrinker -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SocialDrinker">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Drinker"/>
+    </owl:Class>
+    
+
+
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Solvents -->
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Solvents">
@@ -784,6 +861,20 @@
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sport">
         <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthySport"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#State -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#State"/>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sweating -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sweating">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
     </owl:Class>
     
 
@@ -858,6 +949,14 @@
     
 
 
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#State"/>
+    </owl:Class>
+    
+
+
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Vegetable -->
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Vegetable">
@@ -870,6 +969,15 @@
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Vodka">
         <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Spirits"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Vomitting -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Vomitting">
+        <owl:equivalentClass rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#throwing"/>
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
     </owl:Class>
     
 
@@ -898,10 +1006,83 @@
     
 
 
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#anxiety -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#anxiety">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#cocktails -->
 
     <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#cocktails">
         <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#AlcoholicBeverage"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#depression -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#depression">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#diarrhea -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#diarrhea">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#fever -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#fever">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#hand_flapping -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#hand_flapping">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#hand_shaking -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#hand_shaking">
+        <owl:equivalentClass rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#shaking_hands"/>
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#shaking_hands -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#shaking_hands">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#sleep_disturbance -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#sleep_disturbance">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
+    </owl:Class>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#throwing -->
+
+    <owl:Class rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#throwing">
+        <rdfs:subClassOf rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyState"/>
     </owl:Class>
     
 
@@ -914,30 +1095,6 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#1OAK -->
-
-    <owl:NamedIndividual rdf:about="&AddictionBehavioralHealth3;OAK">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#21Club -->
-
-    <owl:NamedIndividual rdf:about="&AddictionBehavioralHealth2;Club">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#49erLounge -->
-
-    <owl:NamedIndividual rdf:about="&AddictionBehavioralHealth;erLounge">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
     
 
 
@@ -989,22 +1146,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Andyman&#39;sTreehouse -->
-
-    <owl:NamedIndividual rdf:about="&Rosie;n&#39;sTreehouse">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&#39;sShare -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&#39;sShare">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#AnvilBarAndRefuge -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#AnvilBarAndRefuge">
@@ -1025,14 +1166,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Apricot">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fruit"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Arnaud’sFrench75Bar -->
-
-    <owl:NamedIndividual rdf:about="&Arnaud;sFrench75Bar">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -1161,14 +1294,6 @@
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTheRedFoxSteakhouse -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTheRedFoxSteakhouse">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTujague&#39;s -->
-
-    <owl:NamedIndividual rdf:about="&Freddy;jague&#39;s">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
@@ -1368,14 +1493,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Biking">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthySport"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&#39;sGay90s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&#39;sGay90s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -1598,33 +1715,9 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brennan&#39;sPub -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brennan&#39;sPub">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brewer&#39;sArt -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brewer&#39;sArt">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BrickStorePub -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BrickStorePub">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brit&#39;sPub -->
-
-    <owl:NamedIndividual rdf:about="&Sam;&#39;sPub">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
     </owl:NamedIndividual>
     
@@ -1742,14 +1835,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&#39;sTikiLounge -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&#39;sTikiLounge">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CCClub -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CCClub">
@@ -1786,14 +1871,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CaliforniaClipper">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Callaghan&#39;sIrishSocialClub -->
-
-    <owl:NamedIndividual rdf:about="&Brennan;n&#39;sIrishSocialClub">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
     </owl:NamedIndividual>
     
 
@@ -1886,22 +1963,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Charlie&#39;sKitchen -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Charlie&#39;sKitchen">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CharlieB&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CharlieB&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ChateauMarmont -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ChateauMarmont">
@@ -1970,14 +2031,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Chocolate">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Snack"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Churchill&#39;sPub -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Churchill&#39;sPub">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
     </owl:NamedIndividual>
     
 
@@ -2138,14 +2191,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Cookie">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyDessert"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Copad’Oro -->
-
-    <owl:NamedIndividual rdf:about="&Copad;Oro">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -2326,14 +2371,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&#39;sCafe -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&#39;sCafe">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#DeepEddyCabaret -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#DeepEddyCabaret">
@@ -2346,14 +2383,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#DeerParkTavern">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tavern"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Denny&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Denny&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
     </owl:NamedIndividual>
     
 
@@ -2386,14 +2415,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Diving">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthySport"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Donn&#39;sDepot -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Donn&#39;sDepot">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -2438,22 +2459,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&#39;sCafe -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&#39;sCafe">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&#39;sPublicHouse -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&#39;sPublicHouse">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#DriedPea -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#DriedPea">
@@ -2482,14 +2487,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#DukeofPerth">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dunkin&#39;Donuts -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dunkin&#39;Donuts">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
     </owl:NamedIndividual>
     
 
@@ -2612,14 +2609,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ErnestineAndHazel&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ErnestineAndHazel&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#EssenHaus -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#EssenHaus">
@@ -2640,14 +2629,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fat">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyFood"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FatMatt&#39;sVortex -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FatMatt&#39;sVortex">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -2712,14 +2693,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveGuys">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&#39;ClockBar -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&#39;ClockBar">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -2796,22 +2769,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fred&#39;sLounge -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fred&#39;sLounge">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Freddy&#39;sBarAndBackroom -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Freddy&#39;sBarAndBackroom">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FreeStateBrewery -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FreeStateBrewery">
@@ -2840,14 +2797,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FriendlyLounge">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fritzel&#39;sEuropeanJazzPub -->
-
-    <owl:NamedIndividual rdf:about="&Jimbo;l&#39;sEuropeanJazzPub">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
     </owl:NamedIndividual>
     
 
@@ -2938,14 +2887,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ginger">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SpiceAndHerb"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ginny&#39;sLittleLonghorn -->
-
-    <owl:NamedIndividual rdf:about="&Lou;y&#39;sLittleLonghorn">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -3407,50 +3348,10 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimbo&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimbo&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy&#39;sCorner -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy&#39;sCorner">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JimmyMak’s -->
-
-    <owl:NamedIndividual rdf:about="&JimmyMak;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy’s -->
-
-    <owl:NamedIndividual rdf:about="&Jimmy3;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jogging -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jogging">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthySport"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JohnDMcGurk&#39;s -->
-
-    <owl:NamedIndividual rdf:about="&Fred;McGurk&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -3475,22 +3376,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Juice">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthyDrinks"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Julius&#39; -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Julius&#39;">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jumbo&#39;sClownRoom -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jumbo&#39;sClownRoom">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -3531,14 +3416,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kayaking">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthySport"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&#39;sLoganHouse -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&#39;sLoganHouse">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -3615,14 +3492,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lafitte’sBlacksmithShop -->
-
-    <owl:NamedIndividual rdf:about="&Lafitte;sBlacksmithShop">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#LakefrontBrewery -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#LakefrontBrewery">
@@ -3683,14 +3552,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lentil">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bean"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Leon’sFullService -->
-
-    <owl:NamedIndividual rdf:about="&Leon;sFullService">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -3816,14 +3677,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lou&#39;sPubAndPackage -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lou&#39;sPubAndPackage">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#LowFatCheese -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#LowFatCheese">
@@ -3848,14 +3701,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mac&#39;sClubDeuce -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mac&#39;sClubDeuce">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MacadamiaOil -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MacadamiaOil"/>
@@ -3874,14 +3719,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mansion">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Manuel’sTavern -->
-
-    <owl:NamedIndividual rdf:about="&Manuel;sTavern">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tavern"/>
     </owl:NamedIndividual>
     
 
@@ -3966,14 +3803,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonald&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonald&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonalds -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonalds">
@@ -3986,14 +3815,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonaldsAngusChipotle">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fastfood"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McGovern&#39;sTavern -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McGovern&#39;sTavern">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tavern"/>
     </owl:NamedIndividual>
     
 
@@ -4038,14 +3859,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MichaelAndLouise&#39;sHopleafBar -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MichaelAndLouise&#39;sHopleafBar">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MidtownBilliards -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MidtownBilliards">
@@ -4074,14 +3887,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brands"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller&#39;sBar -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller&#39;sBar">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -4126,30 +3931,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MitziJerman&#39;sCafe -->
-
-    <owl:NamedIndividual rdf:about="&PoMonkey;an&#39;sCafe">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&#39;sAndJoe&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&#39;sAndJoe&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&#39;sCrosstownTavern -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&#39;sCrosstownTavern">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tavern"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mohawk -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mohawk">
@@ -4162,14 +3943,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mojito">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#cocktails"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&#39;sDowntown -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&#39;sDowntown">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -4286,14 +4059,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NickyBlaine&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NickyBlaine&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NikkiBeachClub -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NikkiBeachClub">
@@ -4322,22 +4087,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NotGettingEnoughSleep">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyActivity"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&#39;sPolonaiseRoom -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&#39;sPolonaiseRoom">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&#39;Malley&#39;s1842Pub -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&#39;Malley&#39;s1842Pub">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
     </owl:NamedIndividual>
     
 
@@ -4486,14 +4235,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PJClarke&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PJClarke&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PX -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PX">
@@ -4598,22 +4339,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pengilly&#39;sSaloon -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pengilly&#39;sSaloon">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People’sRepublik -->
-
-    <owl:NamedIndividual rdf:about="&People2;sRepublik">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Peppermint -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Peppermint">
@@ -4656,14 +4381,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PingPong">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthySport"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PinkieMaster&#39;sLounge -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PinkieMaster&#39;sLounge">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -4712,14 +4429,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Plum">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fruit"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PoMonkey&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PoMonkey&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -4776,14 +4485,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PotatoChips">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Snack"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ProudLarry&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ProudLarry&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -4965,14 +4666,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Robert&#39;sWesternWorld -->
-
-    <owl:NamedIndividual rdf:about="&Moe;rt&#39;sWesternWorld">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#RogerRoom -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#RogerRoom">
@@ -5017,14 +4710,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosemary">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SpiceAndHerb"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosie&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosie&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -5109,22 +4794,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sam&#39;sAnchorCafe -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sam&#39;sAnchorCafe">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SamBond&#39;sGarage -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SamBond&#39;sGarage">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sambar -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sambar">
@@ -5169,14 +4838,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Scallop">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Shellfish"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Schimmel&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Schimmel&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -5229,14 +4890,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Silva&#39;sSaloon -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Silva&#39;sSaloon">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SilverDollarTavern -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SilverDollarTavern">
@@ -5281,14 +4934,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Smoothy">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#UnhealthyDessert"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Smuggler’sCove -->
-
-    <owl:NamedIndividual rdf:about="&Smuggler;sCove">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -5481,14 +5126,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#HealthyMeal"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak&#39;nShake -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak&#39;nShake">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
     </owl:NamedIndividual>
     
 
@@ -5965,14 +5602,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tiny&#39;sRestaurantAndLounge -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tiny&#39;sRestaurantAndLounge">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tofu -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tofu">
@@ -5985,22 +5614,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tomato">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Vegetable"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tommy&#39;sMexicanRestaurant -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tommy&#39;sMexicanRestaurant">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tootsie&#39;sOrchidLounge -->
-
-    <owl:NamedIndividual rdf:about="&Mac;sie&#39;sOrchidLounge">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
@@ -6181,14 +5794,6 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#WalterPayton&#39;sRoundhouse -->
-
-    <owl:NamedIndividual rdf:about="&Donn;rPayton&#39;sRoundhouse">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#WatchingTelevision -->
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#WatchingTelevision">
@@ -6241,14 +5846,6 @@
 
     <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#WelchAvenueStation">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wendy&#39;s -->
-
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wendy&#39;s">
-        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
     </owl:NamedIndividual>
     
 
@@ -6409,17 +6006,601 @@
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Zeke&#39;s -->
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ZigZagCafe -->
 
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Zeke&#39;s">
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ZigZagCafe">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
 
 
-    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ZigZagCafe -->
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#1OAK -->
 
-    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ZigZagCafe">
+    <owl:NamedIndividual rdf:about="&AddictionBehavioralHealth3;OAK">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#21Club -->
+
+    <owl:NamedIndividual rdf:about="&AddictionBehavioralHealth2;Club">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#49erLounge -->
+
+    <owl:NamedIndividual rdf:about="&AddictionBehavioralHealth;erLounge">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Andyman&apos;sTreehouse -->
+
+    <owl:NamedIndividual rdf:about="&Rosie;n&apos;sTreehouse">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&apos;sShare -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Angel&apos;sShare">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Arnaud’sFrench75Bar -->
+
+    <owl:NamedIndividual rdf:about="&Arnaud;sFrench75Bar">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#BarAtTujague&apos;s -->
+
+    <owl:NamedIndividual rdf:about="&Freddy;jague&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&apos;sGay90s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bill&apos;sGay90s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brennan&apos;sPub -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brennan&apos;sPub">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brewer&apos;sArt -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brewer&apos;sArt">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Brit&apos;sPub -->
+
+    <owl:NamedIndividual rdf:about="&Sam;&apos;sPub">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&apos;sTikiLounge -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Burt&apos;sTikiLounge">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Callaghan&apos;sIrishSocialClub -->
+
+    <owl:NamedIndividual rdf:about="&Brennan;n&apos;sIrishSocialClub">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Charlie&apos;sKitchen -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Charlie&apos;sKitchen">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CharlieB&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#CharlieB&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Churchill&apos;sPub -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Churchill&apos;sPub">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Copad’Oro -->
+
+    <owl:NamedIndividual rdf:about="&Copad;Oro">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&apos;sCafe -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dee&apos;sCafe">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Denny&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Denny&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Donn&apos;sDepot -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Donn&apos;sDepot">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&apos;sCafe -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&apos;sCafe">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&apos;sPublicHouse -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Doyle&apos;sPublicHouse">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dunkin&apos;Donuts -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Dunkin&apos;Donuts">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ErnestineAndHazel&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ErnestineAndHazel&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FatMatt&apos;sVortex -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FatMatt&apos;sVortex">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&apos;ClockBar -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#FiveO&apos;ClockBar">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fred&apos;sLounge -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fred&apos;sLounge">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Freddy&apos;sBarAndBackroom -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Freddy&apos;sBarAndBackroom">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Fritzel&apos;sEuropeanJazzPub -->
+
+    <owl:NamedIndividual rdf:about="&Jimbo;l&apos;sEuropeanJazzPub">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Ginny&apos;sLittleLonghorn -->
+
+    <owl:NamedIndividual rdf:about="&Lou;y&apos;sLittleLonghorn">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimbo&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimbo&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy&apos;sCorner -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy&apos;sCorner">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JimmyMak’s -->
+
+    <owl:NamedIndividual rdf:about="&JimmyMak;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jimmy’s -->
+
+    <owl:NamedIndividual rdf:about="&Jimmy3;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#JohnDMcGurk&apos;s -->
+
+    <owl:NamedIndividual rdf:about="&Fred;McGurk&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Julius&apos; -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Julius&apos;">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jumbo&apos;sClownRoom -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Jumbo&apos;sClownRoom">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&apos;sLoganHouse -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Kelly&apos;sLoganHouse">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lafitte’sBlacksmithShop -->
+
+    <owl:NamedIndividual rdf:about="&Lafitte;sBlacksmithShop">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Leon’sFullService -->
+
+    <owl:NamedIndividual rdf:about="&Leon;sFullService">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lou&apos;sPubAndPackage -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Lou&apos;sPubAndPackage">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mac&apos;sClubDeuce -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Mac&apos;sClubDeuce">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NightClub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Manuel’sTavern -->
+
+    <owl:NamedIndividual rdf:about="&Manuel;sTavern">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tavern"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonald&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McDonald&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McGovern&apos;sTavern -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#McGovern&apos;sTavern">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tavern"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MichaelAndLouise&apos;sHopleafBar -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MichaelAndLouise&apos;sHopleafBar">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller&apos;sBar -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Miller&apos;sBar">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#MitziJerman&apos;sCafe -->
+
+    <owl:NamedIndividual rdf:about="&PoMonkey;an&apos;sCafe">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&apos;sCrosstownTavern -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&apos;sCrosstownTavern">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tavern"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&apos;sAndJoe&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Moe&apos;sAndJoe&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&apos;sDowntown -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Monte&apos;sDowntown">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NickyBlaine&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#NickyBlaine&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&apos;sPolonaiseRoom -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Nye&apos;sPolonaiseRoom">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&apos;Malley&apos;s1842Pub -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#O&apos;Malley&apos;s1842Pub">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pub"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PJClarke&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PJClarke&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pengilly&apos;sSaloon -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Pengilly&apos;sSaloon">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#People’sRepublik -->
+
+    <owl:NamedIndividual rdf:about="&People2;sRepublik">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PinkieMaster&apos;sLounge -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PinkieMaster&apos;sLounge">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PoMonkey&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#PoMonkey&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ProudLarry&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ProudLarry&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Robert&apos;sWesternWorld -->
+
+    <owl:NamedIndividual rdf:about="&Moe;rt&apos;sWesternWorld">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosie&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Rosie&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sam&apos;sAnchorCafe -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Sam&apos;sAnchorCafe">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SamBond&apos;sGarage -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#SamBond&apos;sGarage">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Schimmel&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Schimmel&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Silva&apos;sSaloon -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Silva&apos;sSaloon">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Smuggler’sCove -->
+
+    <owl:NamedIndividual rdf:about="&Smuggler;sCove">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak&apos;nShake -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Steak&apos;nShake">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tiny&apos;sRestaurantAndLounge -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tiny&apos;sRestaurantAndLounge">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tommy&apos;sMexicanRestaurant -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tommy&apos;sMexicanRestaurant">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Tootsie&apos;sOrchidLounge -->
+
+    <owl:NamedIndividual rdf:about="&Mac;sie&apos;sOrchidLounge">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#WalterPayton&apos;sRoundhouse -->
+
+    <owl:NamedIndividual rdf:about="&Donn;rPayton&apos;sRoundhouse">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wendy&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wendy&apos;s">
+        <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#ObesityRelated"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Zeke&apos;s -->
+
+    <owl:NamedIndividual rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Zeke&apos;s">
         <rdf:type rdf:resource="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Bar"/>
     </owl:NamedIndividual>
     
@@ -6436,23 +6617,23 @@
     <rdf:Description>
         <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Others"/>
+            <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Vodka"/>
+            <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Whisky"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
             <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Beer"/>
             <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Spirits"/>
             <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Wine"/>
             <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#cocktails"/>
         </owl:members>
     </rdf:Description>
-    <rdf:Description>
-        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
-        <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Others"/>
-            <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Vodka"/>
-            <rdf:Description rdf:about="http://cognac.cis.fiu.edu:1923/AddictionBehavioralHealth.owl#Whisky"/>
-        </owl:members>
-    </rdf:Description>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
 

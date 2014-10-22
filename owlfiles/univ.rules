@@ -20,3 +20,26 @@
 ->
 (?x sf:classmateOf ?z)
 ]
+[FullName:
+(?x sf:first_name ?a)
+(?x sf:last_name ?b)
+->
+(?x sf:full_name ?a)
+]
+
+[isLecturer1:
+(?x rdf:type sf:Lecturer)
+->
+(?x sf:isLecturer true)
+]
+
+[IsSchoolMember:
+(?a rdf:type sf:Student)
+->
+(?a sf:IsSchoolMember true)
+]
+[IsSchoolMember:
+(?a rdf:type sf:Lecturer)
+->
+(?a sf:IsSchoolMember true)
+]
